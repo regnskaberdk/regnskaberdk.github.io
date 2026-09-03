@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regnskabsbanken</title>
+<style>
+  :root {
+    --ink: #20241f;
+    --dim: #6b7069;
+    --hair: #dcded8;
+    --page: #fbfbf9;
+    --gron: #0e5c48;
+    --gron-lys: #e3efe9;
+    --rav: #8a5a10;
+    --rav-lys: #f7ecd6;
+    --viol: #4b4394;
+    --viol-lys: #eae8f6;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--ink);
+    font: 16px/1.55 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .ramme { max-width: 860px; margin: 0 auto; padding: 40px 20px 80px; }
+
+  header h1 { font-size: 30px; font-weight: 650; margin: 0 0 6px; letter-spacing: -0.01em; }
+  header p { margin: 0; color: var(--dim); max-width: 62ch; }
+  .taeller { margin-top: 4px; font-size: 14px; color: var(--dim); }
+
+  .kontrol {
+    display: flex; gap: 10px; flex-wrap: wrap;
+    margin: 28px 0 6px;
+  }
+  .kontrol input[type="search"] {
+    flex: 1 1 240px; min-width: 0;
+  }
+  .kontrol select { flex: 0 1 auto; }
+  input[type="search"], select {
+    font: inherit; font-size: 15px; color: var(--ink);
+    padding: 9px 12px; background: #fff;
+    border: 1px solid var(--hair); border-radius: 8px;
+  }
+  input[type="search"]:focus, select:focus, a:focus-visible, .hent:focus-visible {
+    outline: 2px solid var(--gron); outline-offset: 1px;
+  }
+
+  ol.liste { list-style: none; margin: 18px 0 0; padding: 0; border-top: 1px solid var(--hair); }
+  .raekke {
+    display: flex; align-items: center; gap: 16px;
+    padding: 16px 2px; border-bottom: 1px solid var(--hair);
+  }
+  .info { flex: 1; min-width: 0; }
+  .navn { font-size: 17px; font-weight: 600; margin: 0; }
+  .meta { margin: 2px 0 0; font-size: 14px; color: var(--dim); }
+  .note { margin: 6px 0 0; font-size: 14px; }
+  .note.n-note { color: var(--rav); }
+  .note.n-laer { color: var(--viol); }
+
+  .badge {
+    font-size: 12.5px; font-weight: 600; white-space: nowrap;
+    padding: 4px 10px; border-radius: 999px;
+  }
+  .b-fuld { background: var(--gron-lys); color: var(--gron); }
+  .b-note { background: var(--rav-lys);  color: var(--rav); }
+  .b-laer { background: var(--viol-lys); color: var(--viol); }
+
+  .hent {
+    font: inherit; font-size: 14.5px; font-weight: 600;
+    color: #fff; background: var(--gron);
+    padding: 9px 16px; border-radius: 8px;
+    text-decoration: none; white-space: nowrap;
+  }
+  .hent:hover { background: #0b4a3a; }
+
+  .tom { padding: 40px 0; color: var(--dim); }
+  .fejl {
+    margin-top: 28px; padding: 14px 16px; border: 1px solid var(--hair);
+    border-radius: 8px; background: #fff; color: var(--dim); font-size: 14.5px;
+  }
+  footer { margin-top: 36px; font-size: 13.5px; color: var(--dim); }
+
+  @media (max-width: 560px) {
+    .ramme { padding-top: 28px; }
+    .raekke { flex-wrap: wrap; gap: 10px; }
+    .info { flex: 1 1 100%; }
+    .badge { order: 1; }
+    .hent { order: 2; margin-left: auto; }
+  }
+</style>
+</head>
+<body>
+<div class="ramme">
+  <header>
+    <h1>Regnskabsbanken</h1>
+    <p>Årsregnskaber fra danske selskaber, hentet fra CVR og sat op i Excel
+       med resultatopgørelse, balance og nøgletal — klar til analyse.</p>
+    <p class="taeller" id="taeller"></p>
+  </header>
+
+  <div class="kontrol">
+    <input type="search" id="soeg" placeholder="Søg selskab, CVR eller branche"
+           aria-label="Søg selskab, CVR eller branche">
+    <select id="kategori" aria-label="Filtrér på kategori">
+      <option value="">Alle kategorier</option>
+    </select>
+    <select id="format" aria-label="Filtrér på opstillingsform">
+      <option value="">Begge opstillinger</option>
+      <option value="artsopdelt">Artsopdelt</option>
+      <option value="funktionsopdelt">Funktionsopdelt</option>
+    </select>
+    <select id="sorter" aria-label="Sortering">
+      <option value="navn">Navn A–Å</option>
+      <option value="kategori">Kategori</option>
+      <option value="aar">Flest år først</option>
+    </select>
+  </div>
+
+  <ol class="liste" id="liste"></ol>
+  <p class="tom" id="tom" hidden>Ingen selskaber matcher. Prøv at rydde søgningen eller filtrene.</p>
+  <div class="fejl" id="fejl" hidden>
+    Dataene kunne ikke hentes. Åbner du siden direkte fra en fil på computeren,
+    skal den i stedet køres via en lokal server — fx
+    <code>python -m http.server</code> i mappen — eller ses på den udgivne adresse.
+  </div>
+
+  <footer id="fod"></footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var alle = [];
+  var elListe = document.getElementById("liste");
+  var elTom = document.getElementById("tom");
+  var elTaeller = document.getElementById("taeller");
+  var elSoeg = document.getElementById("soeg");
+  var elKat = document.getElementById("kategori");
+  var elFmt = document.getElementById("format");
+  var elSort = document.getElementById("sorter");
+
+  function badgeKlasse(b) {
+    if (b === "Note") return "b-note";
+    if (b === "Læringspunkt") return "b-laer";
+    return "b-fuld";
+  }
+  function noteKlasse(b) {
+    return b === "Læringspunkt" ? "n-laer" : "n-note";
+  }
+  function aarStreng(aar) {
+    if (!aar || !aar.length) return "år ukendt";
+    return aar[0] + "–" + aar[aar.length - 1] + " (" + aar.length + " år)";
+  }
+
+  function byg(s) {
+    var li = document.createElement("li");
+    li.className = "raekke";
+
+    var info = document.createElement("div");
+    info.className = "info";
+
+    var navn = document.createElement("p");
+    navn.className = "navn";
+    navn.textContent = s.navn;
+
+    var meta = document.createElement("p");
+    meta.className = "meta";
+    meta.textContent = "CVR " + s.cvr + " · " + aarStreng(s.aar) +
+      " · " + s.format + " · " + s.kategori;
+
+    info.appendChild(navn);
+    info.appendChild(meta);
+
+    if (s.note) {
+      var note = document.createElement("p");
+      note.className = "note " + noteKlasse(s.badge);
+      note.textContent = s.note;
+      info.appendChild(note);
+    }
+
+    var badge = document.createElement("span");
+    badge.className = "badge " + badgeKlasse(s.badge);
+    badge.textContent = s.badge;
+
+    var hent = document.createElement("a");
+    hent.className = "hent";
+    hent.href = s.fil;
+    hent.setAttribute("download", "");
+    hent.textContent = "Hent Excel";
+    hent.setAttribute("aria-label", "Hent Excel-fil for " + s.navn);
+
+    li.appendChild(info);
+    li.appendChild(badge);
+    li.appendChild(hent);
+    return li;
+  }
+
+  function vis() {
+    var q = elSoeg.value.trim().toLowerCase();
+    var kat = elKat.value;
+    var fmt = elFmt.value;
+
+    var valgte = alle.filter(function (s) {
+      if (kat && s.kategori !== kat) return false;
+      if (fmt && s.format !== fmt) return false;
+      if (!q) return true;
+      return s.soegetekst.indexOf(q) !== -1;
+    });
+
+    var sort = elSort.value;
+    valgte.sort(function (a, b) {
+      if (sort === "aar") return (b.aar.length - a.aar.length) ||
+        a.navn.localeCompare(b.navn, "da");
+      if (sort === "kategori") return a.kategori.localeCompare(b.kategori, "da") ||
+        a.navn.localeCompare(b.navn, "da");
+      return a.navn.localeCompare(b.navn, "da");
+    });
+
+    elListe.textContent = "";
+    valgte.forEach(function (s) { elListe.appendChild(byg(s)); });
+
+    elTom.hidden = valgte.length !== 0;
+    elTaeller.textContent = valgte.length === alle.length
+      ? alle.length + " selskaber"
+      : "Viser " + valgte.length + " af " + alle.length + " selskaber";
+  }
+
+  function start(data, noter) {
+    alle = data.selskaber.map(function (s) {
+      var n = noter[String(s.cvr)] || {};
+      var kategori = n.kategori || s.branche || "";
+      var badge = n.badge || "Fuld";
+      var note = n.note || "";
+      return {
+        cvr: s.cvr, navn: s.navn, aar: s.aar || [],
+        format: s.format, fil: s.fil,
+        kategori: kategori, badge: badge, note: note,
+        soegetekst: (s.navn + " " + s.cvr + " " + s.branche + " " +
+                     kategori).toLowerCase()
+      };
+    });
+
+    var kategorier = {};
+    alle.forEach(function (s) { kategorier[s.kategori] = true; });
+    Object.keys(kategorier).sort(function (a, b) {
+      return a.localeCompare(b, "da");
+    }).forEach(function (k) {
+      var o = document.createElement("option");
+      o.value = k; o.textContent = k;
+      elKat.appendChild(o);
+    });
+
+    if (data.genereret) {
+      document.getElementById("fod").textContent =
+        "Data genereret " + data.genereret +
+        ". Tallene stammer fra selskabernes officielle indberetninger til CVR.";
+    }
+
+    elSoeg.addEventListener("input", vis);
+    elKat.addEventListener("change", vis);
+    elFmt.addEventListener("change", vis);
+    elSort.addEventListener("change", vis);
+    vis();
+  }
+
+  Promise.all([
+    fetch("data.json").then(function (r) {
+      if (!r.ok) throw new Error(r.status); return r.json();
+    }),
+    fetch("noter.json").then(function (r) {
+      if (!r.ok) throw new Error(r.status); return r.json();
+    })
+  ]).then(function (res) {
+    start(res[0], res[1]);
+  }).catch(function () {
+    document.getElementById("fejl").hidden = false;
+  });
+})();
+</script>
+</body>
+</html>

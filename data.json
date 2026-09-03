@@ -1,0 +1,1363 @@
+{
+  "genereret": "2026-09-03",
+  "selskaber": [
+    {
+      "cvr": 11563392,
+      "navn": "ÅRHUS CHARTER A/S",
+      "mappe": "acharter",
+      "branchekode": 791100,
+      "branche": "Rejsearrangørers aktiviteter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/11563392_acharter.xlsx"
+    },
+    {
+      "cvr": 20342781,
+      "navn": "ALBATROS TRAVEL A/S",
+      "mappe": "albatros",
+      "branchekode": 791100,
+      "branche": "Rejsearrangørers aktiviteter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/20342781_albatros.xlsx"
+    },
+    {
+      "cvr": 32345794,
+      "navn": "MAERSK A/S",
+      "mappe": "apm",
+      "branchekode": 502000,
+      "branche": "Sø- og kysttransport af gods",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/32345794_apm.xlsx"
+    },
+    {
+      "cvr": 25313763,
+      "navn": "ARLA FOODS AMBA",
+      "mappe": "arla",
+      "branchekode": 105100,
+      "branche": "Fremstilling af mejeriprodukter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/25313763_arla.xlsx"
+    },
+    {
+      "cvr": 19555305,
+      "navn": "BAUHAUS DANMARK A/S",
+      "mappe": "bauhaus",
+      "branchekode": 475220,
+      "branche": "Detailhandel med byggematerialer og værktøj",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/19555305_bauhaus.xlsx"
+    },
+    {
+      "cvr": 88216512,
+      "navn": "BESTSELLER A/S",
+      "mappe": "bestseller",
+      "branchekode": 142100,
+      "branche": "Fremstilling af yderbeklædning",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/88216512_bestseller.xlsx"
+    },
+    {
+      "cvr": 41792019,
+      "navn": "Bravo Tours 1998 A/S",
+      "mappe": "bravo",
+      "branchekode": 791200,
+      "branche": "Rejsearrangørers aktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/41792019_bravo.xlsx"
+    },
+    {
+      "cvr": 83933410,
+      "navn": "BRØNDBYERNES I.F. FODBOLD A/S",
+      "mappe": "brondby",
+      "branchekode": 931200,
+      "branche": "Drift af sportsklubber",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/83933410_brondby.xlsx"
+    },
+    {
+      "cvr": 89563518,
+      "navn": "CARLETTI A/S",
+      "mappe": "carletti",
+      "branchekode": 108200,
+      "branche": "Fremstilling af kakao, chokolade og sukkervarer",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/89563518_carletti.xlsx"
+    },
+    {
+      "cvr": 61056416,
+      "navn": "CARLSBERG A/S",
+      "mappe": "carlsberg",
+      "branchekode": 721000,
+      "branche": "Forskning og eksperimentel udvikling inden for naturvidenskab og teknik",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/61056416_carlsberg.xlsx"
+    },
+    {
+      "cvr": 69749917,
+      "navn": "COLOPLAST A/S",
+      "mappe": "colo",
+      "branchekode": 325000,
+      "branche": "Fremstilling af medicinske og dentale instrumenter samt udstyr hertil",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/69749917_colo.xlsx"
+    },
+    {
+      "cvr": 14707204,
+      "navn": "KØBENHAVNS LUFTHAVNE A/S",
+      "mappe": "cph",
+      "branchekode": 522300,
+      "branche": "Serviceydelser i forbindelse med luftfart",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/14707204_cph.xlsx"
+    },
+    {
+      "cvr": 75206119,
+      "navn": "DAN CAKE A/S",
+      "mappe": "dancake",
+      "branchekode": 107110,
+      "branche": "Industriel fremstilling af brød og kager mv.",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/75206119_dancake.xlsx"
+    },
+    {
+      "cvr": 15013583,
+      "navn": "DANÆG A/S",
+      "mappe": "dang",
+      "branchekode": 463300,
+      "branche": "Engroshandel med mejeriprodukter, æg samt spiselige olier og fedtstoffer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/15013583_dang.xlsx"
+    },
+    {
+      "cvr": 87310116,
+      "navn": "Davidsen A/S",
+      "mappe": "davidsen",
+      "branchekode": 468300,
+      "branche": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/87310116_davidsen.xlsx"
+    },
+    {
+      "cvr": 26121264,
+      "navn": "DANISH CROWN A/S",
+      "mappe": "dcrown",
+      "branchekode": 101110,
+      "branche": "Forarbejdning af svinekød",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/26121264_dcrown.xlsx"
+    },
+    {
+      "cvr": 14194711,
+      "navn": "DFDS A/S",
+      "mappe": "dfds",
+      "branchekode": 501000,
+      "branche": "Sø- og kysttransport af passagerer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/14194711_dfds.xlsx"
+    },
+    {
+      "cvr": 24246930,
+      "navn": "DANSK LANDBRUGS GROVVARESELSKAB A.M.B.A.",
+      "mappe": "dlg",
+      "branchekode": 109100,
+      "branche": "Fremstilling af færdige foderblandinger til landbrugsdyr",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/24246930_dlg.xlsx"
+    },
+    {
+      "cvr": 58233528,
+      "navn": "DSV A/S",
+      "mappe": "dsv",
+      "branchekode": 701010,
+      "branche": "Ikke-finansielle hovedsæders aktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/58233528_dsv.xlsx"
+    },
+    {
+      "cvr": 45349918,
+      "navn": "ECCO SKO A/S",
+      "mappe": "ecco",
+      "branchekode": 152000,
+      "branche": "Fremstilling af fodtøj",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/45349918_ecco.xlsx"
+    },
+    {
+      "cvr": 38454218,
+      "navn": "Ege Carpets A/S",
+      "mappe": "ege",
+      "branchekode": 139300,
+      "branche": "Fremstilling af gulvtæpper og -måtter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/38454218_ege.xlsx"
+    },
+    {
+      "cvr": 17237977,
+      "navn": "ELGIGANTEN A/S",
+      "mappe": "elgiganten",
+      "branchekode": 475400,
+      "branche": "Detailhandel med elektriske husholdningsapparater",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/17237977_elgiganten.xlsx"
+    },
+    {
+      "cvr": 33387997,
+      "navn": "Engineered Market Solutions ApS",
+      "mappe": "ems",
+      "branchekode": 259900,
+      "branche": "Fremstilling af andre færdige metalprodukter i.a.n.",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/33387997_ems.xlsx"
+    },
+    {
+      "cvr": 24257703,
+      "navn": "FC NORDSJÆLLAND A/S",
+      "mappe": "fcn",
+      "branchekode": 931200,
+      "branche": "Drift af sportsklubber",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/24257703_fcn.xlsx"
+    },
+    {
+      "cvr": 25834844,
+      "navn": "FERTIN PHARMA A/S",
+      "mappe": "fertin",
+      "branchekode": 108900,
+      "branche": "Fremstilling af andre fødevarer i.a.n",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/25834844_fertin.xlsx"
+    },
+    {
+      "cvr": 16509973,
+      "navn": "HANSENS FLØDEIS ApS",
+      "mappe": "fhansen",
+      "branchekode": 105200,
+      "branche": "Fremstilling af konsumis",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/16509973_fhansen.xlsx"
+    },
+    {
+      "cvr": 32788718,
+      "navn": "Flügger group A/S",
+      "mappe": "flugger",
+      "branchekode": 701010,
+      "branche": "Ikke-finansielle hovedsæders aktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/32788718_flugger.xlsx"
+    },
+    {
+      "cvr": 58868728,
+      "navn": "GABRIEL HOLDING A/S",
+      "mappe": "gabriel",
+      "branchekode": 701010,
+      "branche": "Ikke-finansielle hovedsæders aktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/58868728_gabriel.xlsx"
+    },
+    {
+      "cvr": 35478205,
+      "navn": "TN UDVIKLING A/S",
+      "mappe": "geia",
+      "branchekode": 681200,
+      "branche": "Gennemførelse af byggeprojekter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/35478205_geia.xlsx"
+    },
+    {
+      "cvr": 26573645,
+      "navn": "GEORG JENSEN A/S",
+      "mappe": "georg",
+      "branchekode": 464800,
+      "branche": "Engroshandel med ure og smykker",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/26573645_georg.xlsx"
+    },
+    {
+      "cvr": 31858356,
+      "navn": "GRUNDFOS HOLDING A/S",
+      "mappe": "grundfos",
+      "branchekode": 711220,
+      "branche": "Rådgivende ingeniøraktiviteter inden for produktions- og maskinteknik",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/31858356_grundfos.xlsx"
+    },
+    {
+      "cvr": 43910515,
+      "navn": "HARBOES BRYGGERI A/S",
+      "mappe": "harboe",
+      "branchekode": 110700,
+      "branche": "Fremstilling af læskedrikke og vand på flaske",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/43910515_harboe.xlsx"
+    },
+    {
+      "cvr": 63049611,
+      "navn": "HARTMANN PACKAGING A/S",
+      "mappe": "hartmann",
+      "branchekode": 172500,
+      "branche": "Fremstilling af andre papir- og papvarer",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/63049611_hartmann.xlsx"
+    },
+    {
+      "cvr": 26799945,
+      "navn": "HAY ApS",
+      "mappe": "hay",
+      "branchekode": 464700,
+      "branche": "Engroshandel med møbler til bolig-, kontor- og butiksbrug, tæpper og belysningsartikler",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/26799945_hay.xlsx"
+    },
+    {
+      "cvr": 40333371,
+      "navn": "HelloFresh Nordics ApS",
+      "mappe": "hellofresh",
+      "branchekode": 471120,
+      "branche": "Detailhandel med dagligvarer i supermarkeder og købmandsbutikker",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/40333371_hellofresh.xlsx"
+    },
+    {
+      "cvr": 59946013,
+      "navn": "HEMPEL A/S",
+      "mappe": "hempel",
+      "branchekode": 468300,
+      "branche": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/59946013_hempel.xlsx"
+    },
+    {
+      "cvr": 81198411,
+      "navn": "HUMMEL A/S",
+      "mappe": "hummel",
+      "branchekode": 464210,
+      "branche": "Engroshandel med beklædning",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/81198411_hummel.xlsx"
+    },
+    {
+      "cvr": 12863233,
+      "navn": "HYDREMA Group A/S",
+      "mappe": "hydrema",
+      "branchekode": 701010,
+      "branche": "Ikke-finansielle hovedsæders aktiviteter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/12863233_hydrema.xlsx"
+    },
+    {
+      "cvr": 28504799,
+      "navn": "ISS A/S",
+      "mappe": "iss",
+      "branchekode": 642120,
+      "branche": "Ikke-finansielle holdingselskaber",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/28504799_iss.xlsx"
+    },
+    {
+      "cvr": 10360641,
+      "navn": "JEM & FIX A/S",
+      "mappe": "jem",
+      "branchekode": 475220,
+      "branche": "Detailhandel med byggematerialer og værktøj",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/10360641_jem.xlsx"
+    },
+    {
+      "cvr": 35663908,
+      "navn": "KOMPAN Holding A/S",
+      "mappe": "kompan",
+      "branchekode": 702000,
+      "branche": "Virksomhedsrådgivning og anden ledelsesrådgivning",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/35663908_kompan.xlsx"
+    },
+    {
+      "cvr": 20213094,
+      "navn": "LAGKAGEHUSET A/S",
+      "mappe": "lagekage",
+      "branchekode": 107120,
+      "branche": "Fremstilling af friske bageriprodukter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/20213094_lagekage.xlsx"
+    },
+    {
+      "cvr": 47458714,
+      "navn": "LEGO SYSTEM A/S",
+      "mappe": "lego",
+      "branchekode": 324000,
+      "branche": "Fremstilling af spil og legetøj",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/47458714_lego.xlsx"
+    },
+    {
+      "cvr": 86001519,
+      "navn": "Lars Larsen Group A/S",
+      "mappe": "llarsengroup",
+      "branchekode": 649990,
+      "branche": "Anden finansiel formidling i.a.n.",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/86001519_llarsengroup.xlsx"
+    },
+    {
+      "cvr": 13613575,
+      "navn": "LOUIS NIELSEN A/S",
+      "mappe": "louis",
+      "branchekode": 821000,
+      "branche": "Administrations- og kontorserviceaktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/13613575_louis.xlsx"
+    },
+    {
+      "cvr": 13863385,
+      "navn": "MASCOT INTERNATIONAL A/S",
+      "mappe": "mascot",
+      "branchekode": 142300,
+      "branche": "Fremstilling af arbejdsbeklædning",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/13863385_mascot.xlsx"
+    },
+    {
+      "cvr": 27528406,
+      "navn": "MATAS A/S",
+      "mappe": "matas",
+      "branchekode": 642120,
+      "branche": "Ikke-finansielle holdingselskaber",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/27528406_matas.xlsx"
+    },
+    {
+      "cvr": 10117224,
+      "navn": "MAXI ZOO DENMARK A/S",
+      "mappe": "maxizoo",
+      "branchekode": 477620,
+      "branche": "Detailhandel med kæledyr og udstyr til kæledyr",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/10117224_maxizoo.xlsx"
+    },
+    {
+      "cvr": 10825598,
+      "navn": "MEKOPRINT A/S",
+      "mappe": "mekoprint",
+      "branchekode": 259900,
+      "branche": "Fremstilling af andre færdige metalprodukter i.a.n.",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/10825598_mekoprint.xlsx"
+    },
+    {
+      "cvr": 28314159,
+      "navn": "MIDTFYNS BRYGHUS A/S",
+      "mappe": "midtfyn",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/28314159_midtfyn.xlsx"
+    },
+    {
+      "cvr": 17881248,
+      "navn": "Molslinjen A/S",
+      "mappe": "mols",
+      "branchekode": 501000,
+      "branche": "Sø- og kysttransport af passagerer",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/17881248_mols.xlsx"
+    },
+    {
+      "cvr": 16499609,
+      "navn": "MUNCK GRUPPEN A/S",
+      "mappe": "munck",
+      "branchekode": 682040,
+      "branche": "Udlejning af erhvervsejendomme",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/16499609_munck.xlsx"
+    },
+    {
+      "cvr": 28683944,
+      "navn": "MUUTO A/S",
+      "mappe": "muuto",
+      "branchekode": 741100,
+      "branche": "Industrielt design og modedesign",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/28683944_muuto.xlsx"
+    },
+    {
+      "cvr": 89645417,
+      "navn": "NOBIA DENMARK A/S",
+      "mappe": "nobia",
+      "branchekode": 310000,
+      "branche": "Fremstilling af møbler",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/89645417_nobia.xlsx"
+    },
+    {
+      "cvr": 34883793,
+      "navn": "NORMAL A/S",
+      "mappe": "normal",
+      "branchekode": 477500,
+      "branche": "Detailhandel med kosmetikvarer og toiletartikler",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/34883793_normal.xlsx"
+    },
+    {
+      "cvr": 24256790,
+      "navn": "NOVO NORDISK A/S",
+      "mappe": "novo",
+      "branchekode": 212000,
+      "branche": "Fremstilling af farmaceutiske præparater",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/24256790_novo.xlsx"
+    },
+    {
+      "cvr": 28505116,
+      "navn": "Pandora A/S",
+      "mappe": "pandora",
+      "branchekode": 321200,
+      "branche": "Fremstilling af smykker og lignende varer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/28505116_pandora.xlsx"
+    },
+    {
+      "cvr": 24257797,
+      "navn": "Per Aarsleff Holding A/S",
+      "mappe": "pera",
+      "branchekode": 642120,
+      "branche": "Ikke-finansielle holdingselskaber",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/24257797_pera.xlsx"
+    },
+    {
+      "cvr": 14982442,
+      "navn": "PLANTORAMA A/S",
+      "mappe": "plantorama",
+      "branchekode": 477610,
+      "branche": "Detailhandel med blomster og planter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/14982442_plantorama.xlsx"
+    },
+    {
+      "cvr": 18966239,
+      "navn": "Proshop a/s",
+      "mappe": "proshop",
+      "branchekode": 474000,
+      "branche": "Detailhandel med informations- og kommunikationsudstyr",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/18966239_proshop.xlsx"
+    },
+    {
+      "cvr": 25652991,
+      "navn": "Pure Gym Denmark A/S",
+      "mappe": "puregym",
+      "branchekode": 931300,
+      "branche": "Pure Gym Denmark A/S",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/25652991_puregym.xlsx"
+    },
+    {
+      "cvr": 21093939,
+      "navn": "RICE A/S",
+      "mappe": "rice",
+      "branchekode": 464930,
+      "branche": "Engroshandel med kufferter og lædervarer",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/21093939_rice.xlsx"
+    },
+    {
+      "cvr": 54879415,
+      "navn": "ROCKWOOL A/S",
+      "mappe": "rockwool",
+      "branchekode": 701010,
+      "branche": "Ikke-finansielle hovedsæders aktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/54879415_rockwool.xlsx"
+    },
+    {
+      "cvr": 41956712,
+      "navn": "ROYAL UNIBREW A/S",
+      "mappe": "royaluni",
+      "branchekode": 110700,
+      "branche": "Fremstilling af læskedrikke og vand på flaske",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/41956712_royaluni.xlsx"
+    },
+    {
+      "cvr": 19982912,
+      "navn": "Eckes-Granini Danmark A/S",
+      "mappe": "rynkeby",
+      "branchekode": 103200,
+      "branche": "Fremstilling af frugt- og grøntsagssaft",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/19982912_rynkeby.xlsx"
+    },
+    {
+      "cvr": 35954716,
+      "navn": "Salling Group A/S",
+      "mappe": "salling",
+      "branchekode": 471200,
+      "branche": "Anden ikke-specialiseret detailhandel",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/35954716_salling.xlsx"
+    },
+    {
+      "cvr": 80673612,
+      "navn": "SCANPAN A/S",
+      "mappe": "scan",
+      "branchekode": 259900,
+      "branche": "Fremstilling af andre færdige metalprodukter i.a.n.",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/80673612_scan.xlsx"
+    },
+    {
+      "cvr": 76220115,
+      "navn": "SØSTRENE GRENES IMPORT A/S",
+      "mappe": "sg",
+      "branchekode": 464930,
+      "branche": "Engroshandel med kufferter og lædervarer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/76220115_sg.xlsx"
+    },
+    {
+      "cvr": 38841297,
+      "navn": "Silvan A/S",
+      "mappe": "silvan",
+      "branchekode": 475220,
+      "branche": "Detailhandel med byggematerialer og værktøj",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/38841297_silvan.xlsx"
+    },
+    {
+      "cvr": 15908416,
+      "navn": "SOLAR A/S",
+      "mappe": "solar",
+      "branchekode": 469000,
+      "branche": "Ikke-specialiseret engroshandel",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/15908416_solar.xlsx"
+    },
+    {
+      "cvr": 24137414,
+      "navn": "SPIES A/S",
+      "mappe": "spies",
+      "branchekode": 791200,
+      "branche": "Rejsearrangørers aktiviteter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/24137414_spies.xlsx"
+    },
+    {
+      "cvr": 41952725,
+      "navn": "STARK Group A/S",
+      "mappe": "stark",
+      "branchekode": 642120,
+      "branche": "Ikke-finansielle holdingselskaber",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/41952725_stark.xlsx"
+    },
+    {
+      "cvr": 32931499,
+      "navn": "SUNWEB GROUP SCANDINAVIA A/S",
+      "mappe": "sun",
+      "branchekode": 791100,
+      "branche": "Rejsebureauers aktiviteter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/32931499_sun.xlsx"
+    },
+    {
+      "cvr": 43340476,
+      "navn": "Svendborgsund Bryghus ApS",
+      "mappe": "svendsund",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/43340476_svendsund.xlsx"
+    },
+    {
+      "cvr": 37291269,
+      "navn": "TCM Group A/S",
+      "mappe": "tcm",
+      "branchekode": 821000,
+      "branche": "Administrations- og kontorserviceaktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/37291269_tcm.xlsx"
+    },
+    {
+      "cvr": 12425694,
+      "navn": "THISE MEJERI A.M.B.A.",
+      "mappe": "thise",
+      "branchekode": 105100,
+      "branche": "Fremstilling af mejeriprodukter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/12425694_thise.xlsx"
+    },
+    {
+      "cvr": 10404916,
+      "navn": "TIVOLI A/S",
+      "mappe": "tivoli",
+      "branchekode": 932100,
+      "branche": "Drift af forlystelsesparker o.lign.",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/10404916_tivoli.xlsx"
+    },
+    {
+      "cvr": 56759328,
+      "navn": "TOMS GRUPPEN A/S",
+      "mappe": "toms",
+      "branchekode": 108200,
+      "branche": "Fremstilling af kakao, chokolade og sukkervarer",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/56759328_toms.xlsx"
+    },
+    {
+      "cvr": 22460218,
+      "navn": "TORM A/S",
+      "mappe": "torm",
+      "branchekode": 502000,
+      "branche": "Sø- og kysttransport af gods",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/22460218_torm.xlsx"
+    },
+    {
+      "cvr": 37425311,
+      "navn": "TUI DANMARK A/S",
+      "mappe": "tui",
+      "branchekode": 791200,
+      "branche": "Rejsearrangørers aktiviteter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/37425311_tui.xlsx"
+    },
+    {
+      "cvr": 14996613,
+      "navn": "VALSEMØLLEN AF 1899 A/S",
+      "mappe": "valse",
+      "branchekode": 106100,
+      "branche": "Fremstilling af mølleriprodukter",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/14996613_valse.xlsx"
+    },
+    {
+      "cvr": 37118311,
+      "navn": "A/S BRYGGERIET VESTFYEN",
+      "mappe": "vestfyn",
+      "branchekode": 110700,
+      "branche": "Fremstilling af læskedrikke og vand på flaske",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "funktionsopdelt",
+      "fil": "filer/37118311_vestfyn.xlsx"
+    },
+    {
+      "cvr": 30830415,
+      "navn": "VKR HOLDING A/S",
+      "mappe": "vkr",
+      "branchekode": 701010,
+      "branche": "Ikke-finansielle hovedsæders aktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/30830415_vkr.xlsx"
+    },
+    {
+      "cvr": 33054173,
+      "navn": "WINUM AUTOLAKERING ApS",
+      "mappe": "winum",
+      "branchekode": 953120,
+      "branche": "Reparation og lakering af karosseri samt undervognsbehandling",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/33054173_winum.xlsx"
+    },
+    {
+      "cvr": 26864100,
+      "navn": "XL-BYG A.M.B.A",
+      "mappe": "xlb",
+      "branchekode": 468300,
+      "branche": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
+      "aar": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "format": "artsopdelt",
+      "fil": "filer/26864100_xlb.xlsx"
+    }
+  ]
+}
