@@ -11,13 +11,13 @@
   },
   "32345794": {
     "kategori": "Sø- og kysttransport af gods",
-    "badge": "Note",
-    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+    "badge": "Læringspunkt",
+    "note": "Aflagt i USD — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "25313763": {
     "kategori": "Fremstilling af mejeriprodukter",
-    "badge": "Fuld",
-    "note": ""
+    "badge": "Læringspunkt",
+    "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "19555305": {
     "kategori": "Detailhandel med byggematerialer og værktøj",
@@ -86,8 +86,8 @@
   },
   "24246930": {
     "kategori": "Fremstilling af færdige foderblandinger til landbrugsdyr",
-    "badge": "Fuld",
-    "note": ""
+    "badge": "Læringspunkt",
+    "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK. Bemærk: valutaen skifter mellem årene."
   },
   "58233528": {
     "kategori": "Ikke-finansielle hovedsæders aktiviteter",
@@ -96,8 +96,8 @@
   },
   "45349918": {
     "kategori": "Fremstilling af fodtøj",
-    "badge": "Note",
-    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+    "badge": "Læringspunkt",
+    "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "38454218": {
     "kategori": "Fremstilling af gulvtæpper og -måtter",
@@ -176,8 +176,8 @@
   },
   "59946013": {
     "kategori": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
-    "badge": "Fuld",
-    "note": ""
+    "badge": "Læringspunkt",
+    "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "81198411": {
     "kategori": "Engroshandel med beklædning",
@@ -311,8 +311,8 @@
   },
   "54879415": {
     "kategori": "Ikke-finansielle hovedsæders aktiviteter",
-    "badge": "Fuld",
-    "note": ""
+    "badge": "Læringspunkt",
+    "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "41956712": {
     "kategori": "Fremstilling af læskedrikke og vand på flaske",
@@ -341,8 +341,8 @@
   },
   "38841297": {
     "kategori": "Detailhandel med byggematerialer og værktøj",
-    "badge": "Fuld",
-    "note": ""
+    "badge": "Læringspunkt",
+    "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK. Bemærk: valutaen skifter mellem årene."
   },
   "15908416": {
     "kategori": "Ikke-specialiseret engroshandel",
@@ -356,8 +356,8 @@
   },
   "41952725": {
     "kategori": "Ikke-finansielle holdingselskaber",
-    "badge": "Fuld",
-    "note": ""
+    "badge": "Læringspunkt",
+    "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "32931499": {
     "kategori": "Rejsebureauers aktiviteter",
@@ -391,8 +391,8 @@
   },
   "22460218": {
     "kategori": "Sø- og kysttransport af gods",
-    "badge": "Note",
-    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+    "badge": "Læringspunkt",
+    "note": "Aflagt i USD — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "37425311": {
     "kategori": "Rejsearrangørers aktiviteter",
