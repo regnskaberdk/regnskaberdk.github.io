@@ -29,6 +29,12 @@
   header h1 { font-size: 30px; font-weight: 650; margin: 0 0 6px; letter-spacing: -0.01em; }
   header p { margin: 0; color: var(--dim); max-width: 62ch; }
   .taeller { margin-top: 4px; font-size: 14px; color: var(--dim); }
+  .hint {
+    margin: 14px 0 0; font-size: 14px; color: var(--rav);
+    background: var(--rav-lys); border-radius: 8px;
+    padding: 8px 12px; display: inline-block;
+  }
+  .hint strong { font-weight: 650; }
 
   .kontrol {
     display: flex; gap: 10px; flex-wrap: wrap;
@@ -98,6 +104,8 @@
     <p>Årsregnskaber fra danske selskaber, hentet fra CVR og sat op i Excel
        med resultatopgørelse, balance og nøgletal — klar til analyse.</p>
     <p class="taeller" id="taeller"></p>
+    <p class="hint">Når filen åbner i Excel første gang: klik <strong>Aktivér redigering</strong>
+       i den gule bjælke øverst — ellers vises tallene ikke.</p>
   </header>
 
   <div class="kontrol">
@@ -110,6 +118,9 @@
       <option value="">Begge opstillinger</option>
       <option value="artsopdelt">Artsopdelt</option>
       <option value="funktionsopdelt">Funktionsopdelt</option>
+    </select>
+    <select id="klasse" aria-label="Filtrér på regnskabsklasse">
+      <option value="">Alle klasser</option>
     </select>
     <select id="sorter" aria-label="Sortering">
       <option value="navn">Navn A–Å</option>
@@ -140,6 +151,7 @@
   var elSoeg = document.getElementById("soeg");
   var elKat = document.getElementById("kategori");
   var elFmt = document.getElementById("format");
+  var elKlasse = document.getElementById("klasse");
   var elSort = document.getElementById("sorter");
 
   function badgeKlasse(b) {
@@ -169,7 +181,12 @@
     var meta = document.createElement("p");
     meta.className = "meta";
     meta.textContent = "CVR " + s.cvr + " · " + aarStreng(s.aar) +
-      " · " + s.format + " · " + s.kategori;
+      " · " + s.format +
+      (s.valuta && s.valuta !== "DKK" ? " · " + s.valuta : "") +
+      (s.klasse ? " · " + s.klasse : "") +
+      (s.erklaering ? " · " + s.erklaering : "") +
+      (s.regnskabsaar ? " · regnskabsår " + s.regnskabsaar : "") +
+      " · " + s.kategori;
 
     info.appendChild(navn);
     info.appendChild(meta);
@@ -202,10 +219,12 @@
     var q = elSoeg.value.trim().toLowerCase();
     var kat = elKat.value;
     var fmt = elFmt.value;
+    var kl = elKlasse.value;
 
     var valgte = alle.filter(function (s) {
       if (kat && s.kategori !== kat) return false;
       if (fmt && s.format !== fmt) return false;
+      if (kl && s.klasse !== kl) return false;
       if (!q) return true;
       return s.soegetekst.indexOf(q) !== -1;
     });
@@ -236,7 +255,9 @@
       var note = n.note || "";
       return {
         cvr: s.cvr, navn: s.navn, aar: s.aar || [],
-        format: s.format, fil: s.fil,
+        format: s.format, fil: s.fil, valuta: s.valuta || "DKK",
+        klasse: s.klasse || "", erklaering: s.erklaering || "",
+        regnskabsaar: s.regnskabsaar || "",
         kategori: kategori, badge: badge, note: note,
         soegetekst: (s.navn + " " + s.cvr + " " + s.branche + " " +
                      kategori).toLowerCase()
@@ -259,9 +280,18 @@
         ". Tallene stammer fra selskabernes officielle indberetninger til CVR.";
     }
 
+    var klasser = {};
+    alle.forEach(function (s) { if (s.klasse) klasser[s.klasse] = true; });
+    Object.keys(klasser).sort().forEach(function (k) {
+      var o = document.createElement("option");
+      o.value = k; o.textContent = k;
+      elKlasse.appendChild(o);
+    });
+
     elSoeg.addEventListener("input", vis);
     elKat.addEventListener("change", vis);
     elFmt.addEventListener("change", vis);
+    elKlasse.addEventListener("change", vis);
     elSort.addEventListener("change", vis);
     vis();
   }
