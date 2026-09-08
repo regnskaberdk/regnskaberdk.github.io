@@ -186,6 +186,7 @@
       (s.klasse ? " · " + s.klasse : "") +
       (s.erklaering ? " · " + s.erklaering : "") +
       (s.regnskabsaar ? " · regnskabsår " + s.regnskabsaar : "") +
+      (s.pengestroem === false ? " · uden pengestrømsopgørelse" : "") +
       " · " + s.kategori;
 
     info.appendChild(navn);
@@ -258,6 +259,7 @@
         format: s.format, fil: s.fil, valuta: s.valuta || "DKK",
         klasse: s.klasse || "", erklaering: s.erklaering || "",
         regnskabsaar: s.regnskabsaar || "",
+        pengestroem: (s.pengestroem === false ? false : true),
         kategori: kategori, badge: badge, note: note,
         soegetekst: (s.navn + " " + s.cvr + " " + s.branche + " " +
                      kategori).toLowerCase()
