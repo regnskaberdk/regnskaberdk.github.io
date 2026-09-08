@@ -1,5 +1,5 @@
 {
-  "genereret": "2026-09-07",
+  "genereret": "2026-09-08",
   "selskaber": [
     {
       "cvr": 11563392,
@@ -19,6 +19,7 @@
       "klasse": "C-mellem",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/11563392_acharter.xlsx"
     },
     {
@@ -28,17 +29,18 @@
       "branchekode": 791100,
       "branche": "Rejsearrangørers aktiviteter",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/20342781_albatros.xlsx"
     },
     {
@@ -59,6 +61,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/32345794_apm.xlsx"
     },
     {
@@ -79,6 +82,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/25313763_arla.xlsx"
     },
     {
@@ -88,17 +92,18 @@
       "branchekode": 475220,
       "branche": "Detailhandel med byggematerialer og værktøj",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/19555305_bauhaus.xlsx"
     },
     {
@@ -119,6 +124,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/8–31/7",
+      "pengestroem": true,
       "fil": "filer/88216512_bestseller.xlsx"
     },
     {
@@ -131,13 +137,15 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/41792019_bravo.xlsx"
     },
     {
@@ -158,6 +166,7 @@
       "klasse": "",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/83933410_brondby.xlsx"
     },
     {
@@ -167,17 +176,18 @@
       "branchekode": 108200,
       "branche": "Fremstilling af kakao, chokolade og sukkervarer",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
-      "klasse": "C-stor",
-      "erklaering": "Revision",
+      "klasse": "C-mellem",
+      "erklaering": "Den uafhængige revisors erklær",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/89563518_carletti.xlsx"
     },
     {
@@ -198,6 +208,7 @@
       "klasse": "D",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/61056416_carlsberg.xlsx"
     },
     {
@@ -218,6 +229,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/69749917_colo.xlsx"
     },
     {
@@ -227,17 +239,18 @@
       "branchekode": 522300,
       "branche": "Serviceydelser i forbindelse med luftfart",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/14707204_cph.xlsx"
     },
     {
@@ -247,17 +260,18 @@
       "branchekode": 107110,
       "branche": "Industriel fremstilling af brød og kager mv.",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
-      "erklaering": "Revision",
+      "erklaering": "Den uafhængige revisors erklær",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/75206119_dancake.xlsx"
     },
     {
@@ -278,6 +292,7 @@
       "klasse": "C-mellem",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/15013583_dang.xlsx"
     },
     {
@@ -287,17 +302,18 @@
       "branchekode": 468300,
       "branche": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/87310116_davidsen.xlsx"
     },
     {
@@ -318,6 +334,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/10–30/9",
+      "pengestroem": false,
       "fil": "filer/26121264_dcrown.xlsx"
     },
     {
@@ -338,6 +355,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/14194711_dfds.xlsx"
     },
     {
@@ -358,6 +376,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/24246930_dlg.xlsx"
     },
     {
@@ -378,6 +397,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/58233528_dsv.xlsx"
     },
     {
@@ -387,17 +407,18 @@
       "branchekode": 152000,
       "branche": "Fremstilling af fodtøj",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "EUR",
       "klasse": "C-stor",
-      "erklaering": "Revision",
+      "erklaering": "Independent Auditor’s Report",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/45349918_ecco.xlsx"
     },
     {
@@ -418,6 +439,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/5–30/4",
+      "pengestroem": true,
       "fil": "filer/38454218_ege.xlsx"
     },
     {
@@ -438,6 +460,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/5–30/4",
+      "pengestroem": true,
       "fil": "filer/17237977_elgiganten.xlsx"
     },
     {
@@ -458,6 +481,7 @@
       "klasse": "C-mellem",
       "erklaering": "Revision",
       "regnskabsaar": "1/6–31/5",
+      "pengestroem": true,
       "fil": "filer/33387997_ems.xlsx"
     },
     {
@@ -467,17 +491,18 @@
       "branchekode": 931200,
       "branche": "Drift af sportsklubber",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-mellem",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/24257703_fcn.xlsx"
     },
     {
@@ -487,17 +512,18 @@
       "branchekode": 108900,
       "branche": "Fremstilling af andre fødevarer i.a.n",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "funktionsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/25834844_fertin.xlsx"
     },
     {
@@ -518,6 +544,7 @@
       "klasse": "B",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/16509973_fhansen.xlsx"
     },
     {
@@ -538,6 +565,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/32788718_flugger.xlsx"
     },
     {
@@ -558,6 +586,7 @@
       "klasse": "",
       "erklaering": "Revision",
       "regnskabsaar": "1/10–30/9",
+      "pengestroem": true,
       "fil": "filer/58868728_gabriel.xlsx"
     },
     {
@@ -567,17 +596,18 @@
       "branchekode": 681200,
       "branche": "Gennemførelse af byggeprojekter",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "B",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/35478205_geia.xlsx"
     },
     {
@@ -598,6 +628,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/26573645_georg.xlsx"
     },
     {
@@ -618,6 +649,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/31858356_grundfos.xlsx"
     },
     {
@@ -638,6 +670,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/43910515_harboe.xlsx"
     },
     {
@@ -647,17 +680,18 @@
       "branchekode": 172500,
       "branche": "Fremstilling af andre papir- og papvarer",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "funktionsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
-      "erklaering": "Revision",
+      "erklaering": "Independent Auditor’s Report",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/63049611_hartmann.xlsx"
     },
     {
@@ -678,6 +712,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/6–31/5",
+      "pengestroem": false,
       "fil": "filer/26799945_hay.xlsx"
     },
     {
@@ -687,17 +722,18 @@
       "branchekode": 471120,
       "branche": "Detailhandel med dagligvarer i supermarkeder og købmandsbutikker",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/40333371_hellofresh.xlsx"
     },
     {
@@ -718,6 +754,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/59946013_hempel.xlsx"
     },
     {
@@ -727,17 +764,18 @@
       "branchekode": 464210,
       "branche": "Engroshandel med beklædning",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/81198411_hummel.xlsx"
     },
     {
@@ -747,17 +785,18 @@
       "branchekode": 701010,
       "branche": "Ikke-finansielle hovedsæders aktiviteter",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/12863233_hydrema.xlsx"
     },
     {
@@ -778,6 +817,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/28504799_iss.xlsx"
     },
     {
@@ -787,17 +827,18 @@
       "branchekode": 475220,
       "branche": "Detailhandel med byggematerialer og værktøj",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
-      "erklaering": "Revision",
+      "erklaering": "Den uafhængige revisors erklær",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/10360641_jem.xlsx"
     },
     {
@@ -807,17 +848,18 @@
       "branchekode": 702000,
       "branche": "Virksomhedsrådgivning og anden ledelsesrådgivning",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
-      "format": "funktionsopdelt",
+      "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
-      "erklaering": "Revision",
+      "erklaering": "Independent Auditor’s Report",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/35663908_kompan.xlsx"
     },
     {
@@ -827,17 +869,18 @@
       "branchekode": 107120,
       "branche": "Fremstilling af friske bageriprodukter",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/20213094_lagekage.xlsx"
     },
     {
@@ -847,17 +890,18 @@
       "branchekode": 324000,
       "branche": "Fremstilling af spil og legetøj",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "funktionsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/47458714_lego.xlsx"
     },
     {
@@ -878,6 +922,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/9–31/8",
+      "pengestroem": true,
       "fil": "filer/86001519_llarsengroup.xlsx"
     },
     {
@@ -887,17 +932,18 @@
       "branchekode": 821000,
       "branche": "Administrations- og kontorserviceaktiviteter",
       "aar": [
-        2021,
         2022,
         2023,
         2024,
-        2025
+        2025,
+        2026
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
-      "erklaering": "Revision",
+      "erklaering": "Den uafhængige revisors erklær",
       "regnskabsaar": "1/3–28/2",
+      "pengestroem": true,
       "fil": "filer/13613575_louis.xlsx"
     },
     {
@@ -918,6 +964,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/13863385_mascot.xlsx"
     },
     {
@@ -938,6 +985,7 @@
       "klasse": "",
       "erklaering": "Revision",
       "regnskabsaar": "1/4–31/3",
+      "pengestroem": true,
       "fil": "filer/27528406_matas.xlsx"
     },
     {
@@ -947,17 +995,18 @@
       "branchekode": 477620,
       "branche": "Detailhandel med kæledyr og udstyr til kæledyr",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/10117224_maxizoo.xlsx"
     },
     {
@@ -978,6 +1027,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/10–30/9",
+      "pengestroem": true,
       "fil": "filer/10825598_mekoprint.xlsx"
     },
     {
@@ -998,6 +1048,7 @@
       "klasse": "B",
       "erklaering": "Udvidet gennemgang",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/28314159_midtfyn.xlsx"
     },
     {
@@ -1007,17 +1058,18 @@
       "branchekode": 501000,
       "branche": "Sø- og kysttransport af passagerer",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/17881248_mols.xlsx"
     },
     {
@@ -1038,6 +1090,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/10–30/9",
+      "pengestroem": true,
       "fil": "filer/16499609_munck.xlsx"
     },
     {
@@ -1058,6 +1111,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/6–31/5",
+      "pengestroem": false,
       "fil": "filer/28683944_muuto.xlsx"
     },
     {
@@ -1078,6 +1132,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/89645417_nobia.xlsx"
     },
     {
@@ -1098,6 +1153,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/8–31/7",
+      "pengestroem": true,
       "fil": "filer/34883793_normal.xlsx"
     },
     {
@@ -1118,6 +1174,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/24256790_novo.xlsx"
     },
     {
@@ -1138,6 +1195,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/28505116_pandora.xlsx"
     },
     {
@@ -1158,6 +1216,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/24257797_pera.xlsx"
     },
     {
@@ -1178,6 +1237,7 @@
       "klasse": "C-stor",
       "erklaering": "Den uafhængige revisors erklær",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/14982442_plantorama.xlsx"
     },
     {
@@ -1198,6 +1258,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/18966239_proshop.xlsx"
     },
     {
@@ -1207,17 +1268,18 @@
       "branchekode": 931300,
       "branche": "Pure Gym Denmark A/S",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/25652991_puregym.xlsx"
     },
     {
@@ -1227,17 +1289,18 @@
       "branchekode": 464930,
       "branche": "Engroshandel med kufferter og lædervarer",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "B",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/21093939_rice.xlsx"
     },
     {
@@ -1258,6 +1321,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/54879415_rockwool.xlsx"
     },
     {
@@ -1278,6 +1342,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/41956712_royaluni.xlsx"
     },
     {
@@ -1287,17 +1352,18 @@
       "branchekode": 103200,
       "branche": "Fremstilling af frugt- og grøntsagssaft",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/19982912_rynkeby.xlsx"
     },
     {
@@ -1307,17 +1373,18 @@
       "branchekode": 471200,
       "branche": "Anden ikke-specialiseret detailhandel",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
-      "format": "artsopdelt",
+      "format": "funktionsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/35954716_salling.xlsx"
     },
     {
@@ -1327,17 +1394,18 @@
       "branchekode": 259900,
       "branche": "Fremstilling af andre færdige metalprodukter i.a.n.",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "funktionsopdelt",
       "valuta": "DKK",
       "klasse": "C-mellem",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/80673612_scan.xlsx"
     },
     {
@@ -1358,6 +1426,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/5–30/4",
+      "pengestroem": false,
       "fil": "filer/76220115_sg.xlsx"
     },
     {
@@ -1367,17 +1436,18 @@
       "branchekode": 475220,
       "branche": "Detailhandel med byggematerialer og værktøj",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "EUR",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/38841297_silvan.xlsx"
     },
     {
@@ -1398,6 +1468,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/15908416_solar.xlsx"
     },
     {
@@ -1407,17 +1478,18 @@
       "branchekode": 791200,
       "branche": "Rejsearrangørers aktiviteter",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/10–30/9",
+      "pengestroem": false,
       "fil": "filer/24137414_spies.xlsx"
     },
     {
@@ -1438,6 +1510,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/41952725_stark.xlsx"
     },
     {
@@ -1447,17 +1520,18 @@
       "branchekode": 791100,
       "branche": "Rejsebureauers aktiviteter",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "B",
       "erklaering": "Udvidet gennemgang",
       "regnskabsaar": "1/11–31/10",
+      "pengestroem": false,
       "fil": "filer/32931499_sun.xlsx"
     },
     {
@@ -1477,6 +1551,7 @@
       "klasse": "B",
       "erklaering": "Andre erklæringer uden sikkerh",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/43340476_svendsund.xlsx"
     },
     {
@@ -1497,6 +1572,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/37291269_tcm.xlsx"
     },
     {
@@ -1517,6 +1593,7 @@
       "klasse": "C-stor",
       "erklaering": "Den uafhængige revisors erklær",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/12425694_thise.xlsx"
     },
     {
@@ -1537,6 +1614,7 @@
       "klasse": "",
       "erklaering": "",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/10404916_tivoli.xlsx"
     },
     {
@@ -1546,17 +1624,18 @@
       "branchekode": 108200,
       "branche": "Fremstilling af kakao, chokolade og sukkervarer",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "funktionsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/56759328_toms.xlsx"
     },
     {
@@ -1566,17 +1645,18 @@
       "branchekode": 502000,
       "branche": "Sø- og kysttransport af gods",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "funktionsopdelt",
       "valuta": "USD",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/22460218_torm.xlsx"
     },
     {
@@ -1586,17 +1666,18 @@
       "branchekode": 791200,
       "branche": "Rejsearrangørers aktiviteter",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "1/10–30/9",
+      "pengestroem": false,
       "fil": "filer/37425311_tui.xlsx"
     },
     {
@@ -1606,17 +1687,18 @@
       "branchekode": 106100,
       "branche": "Fremstilling af mølleriprodukter",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/14996613_valse.xlsx"
     },
     {
@@ -1626,17 +1708,18 @@
       "branchekode": 110700,
       "branche": "Fremstilling af læskedrikke og vand på flaske",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "funktionsopdelt",
       "valuta": "DKK",
       "klasse": "C-mellem",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/37118311_vestfyn.xlsx"
     },
     {
@@ -1657,6 +1740,7 @@
       "klasse": "C-stor",
       "erklaering": "Revision",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/30830415_vkr.xlsx"
     },
     {
@@ -1666,17 +1750,18 @@
       "branchekode": 953120,
       "branche": "Reparation og lakering af karosseri samt undervognsbehandling",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "B",
       "erklaering": "Andre erklæringer uden sikkerh",
       "regnskabsaar": "",
+      "pengestroem": false,
       "fil": "filer/33054173_winum.xlsx"
     },
     {
@@ -1686,17 +1771,18 @@
       "branchekode": 468300,
       "branche": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
       "aar": [
-        2020,
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025
       ],
       "format": "artsopdelt",
       "valuta": "DKK",
       "klasse": "C-stor",
-      "erklaering": "Revision",
+      "erklaering": "Den uafhængige revisors erklær",
       "regnskabsaar": "",
+      "pengestroem": true,
       "fil": "filer/26864100_xlb.xlsx"
     }
   ]
