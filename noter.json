@@ -9,6 +9,11 @@
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
+  "19851974": {
+    "kategori": "Engroshandel med metaller og metalmalme",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "32345794": {
     "kategori": "Sø- og kysttransport af gods",
     "badge": "Læringspunkt",
@@ -21,8 +26,8 @@
   },
   "19555305": {
     "kategori": "Detailhandel med byggematerialer og værktøj",
-    "badge": "Note",
-    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+    "badge": "Fuld",
+    "note": ""
   },
   "88216512": {
     "kategori": "Fremstilling af yderbeklædning",
@@ -149,6 +154,11 @@
     "badge": "Fuld",
     "note": ""
   },
+  "30078616": {
+    "kategori": "Fremstilling af færdigretter",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "31858356": {
     "kategori": "Rådgivende ingeniøraktiviteter inden for produktions- og maskinteknik",
     "badge": "Fuld",
@@ -181,8 +191,8 @@
   },
   "81198411": {
     "kategori": "Engroshandel med beklædning",
-    "badge": "Note",
-    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+    "badge": "Fuld",
+    "note": ""
   },
   "12863233": {
     "kategori": "Ikke-finansielle hovedsæders aktiviteter",
@@ -279,6 +289,16 @@
     "badge": "Fuld",
     "note": ""
   },
+  "15233699": {
+    "kategori": "Fremstilling af kakao, chokolade og sukkervarer",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "17153684": {
+    "kategori": "Engroshandel med medicinalvarer og sygeplejeartikler",
+    "badge": "Fuld",
+    "note": ""
+  },
   "28505116": {
     "kategori": "Fremstilling af smykker og lignende varer",
     "badge": "Fuld",
@@ -361,8 +381,8 @@
   },
   "32931499": {
     "kategori": "Rejsebureauers aktiviteter",
-    "badge": "Note",
-    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+    "badge": "Fuld",
+    "note": ""
   },
   "43340476": {
     "kategori": "Fremstilling af øl",

@@ -122,6 +122,11 @@
     <select id="klasse" aria-label="Filtrér på regnskabsklasse">
       <option value="">Alle klasser</option>
     </select>
+    <select id="omsaetning" aria-label="Filtrér på oplyst nettoomsætning">
+      <option value="">Omsætning: alle</option>
+      <option value="med">Med nettoomsætning</option>
+      <option value="uden">Uden nettoomsætning</option>
+    </select>
     <select id="sorter" aria-label="Sortering">
       <option value="navn">Navn A–Å</option>
       <option value="kategori">Kategori</option>
@@ -152,6 +157,7 @@
   var elKat = document.getElementById("kategori");
   var elFmt = document.getElementById("format");
   var elKlasse = document.getElementById("klasse");
+  var elOms = document.getElementById("omsaetning");
   var elSort = document.getElementById("sorter");
 
   function badgeKlasse(b) {
@@ -187,6 +193,7 @@
       (s.erklaering ? " · " + s.erklaering : "") +
       (s.regnskabsaar ? " · regnskabsår " + s.regnskabsaar : "") +
       (s.pengestroem === false ? " · uden pengestrømsopgørelse" : "") +
+      (s.omsaetning === false ? " · uden oplyst omsætning" : "") +
       " · " + s.kategori;
 
     info.appendChild(navn);
@@ -221,11 +228,14 @@
     var kat = elKat.value;
     var fmt = elFmt.value;
     var kl = elKlasse.value;
+    var oms = elOms.value;
 
     var valgte = alle.filter(function (s) {
       if (kat && s.kategori !== kat) return false;
       if (fmt && s.format !== fmt) return false;
       if (kl && s.klasse !== kl) return false;
+      if (oms === "med" && !s.omsaetning) return false;
+      if (oms === "uden" && s.omsaetning) return false;
       if (!q) return true;
       return s.soegetekst.indexOf(q) !== -1;
     });
@@ -260,6 +270,7 @@
         klasse: s.klasse || "", erklaering: s.erklaering || "",
         regnskabsaar: s.regnskabsaar || "",
         pengestroem: (s.pengestroem === false ? false : true),
+        omsaetning: (s.omsaetning === false ? false : true),
         kategori: kategori, badge: badge, note: note,
         soegetekst: (s.navn + " " + s.cvr + " " + s.branche + " " +
                      kategori).toLowerCase()
@@ -294,6 +305,7 @@
     elKat.addEventListener("change", vis);
     elFmt.addEventListener("change", vis);
     elKlasse.addEventListener("change", vis);
+    elOms.addEventListener("change", vis);
     elSort.addEventListener("change", vis);
     vis();
   }
