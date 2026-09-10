@@ -1,5 +1,5 @@
 {
-  "genereret": "2026-09-09",
+  "genereret": "2026-09-10",
   "selskaber": [
     {
       "cvr": 11563392,
@@ -244,6 +244,28 @@
       "fil": "filer/61056416_carlsberg_a_s.xlsx"
     },
     {
+      "cvr": 34044511,
+      "navn": "C.C. JENSEN A/S",
+      "mappe": "ccjensen",
+      "branchekode": 282900,
+      "branche": "Fremstilling af andre maskiner til generelle formål i.a.n.",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer/34044511_c_c_jensen_a_s.xlsx"
+    },
+    {
       "cvr": 69749917,
       "navn": "COLOPLAST A/S",
       "mappe": "colo",
@@ -264,6 +286,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer/69749917_coloplast_a_s.xlsx"
+    },
+    {
+      "cvr": 26259495,
+      "navn": "COOP DANMARK A/S",
+      "mappe": "coop",
+      "branchekode": 471120,
+      "branche": "Detailhandel med dagligvarer i supermarkeder og købmandsbutikker",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer/26259495_coop_danmark_a_s.xlsx"
     },
     {
       "cvr": 14707204,
@@ -926,6 +970,28 @@
       "fil": "filer/10360641_jem_fix_a_s.xlsx"
     },
     {
+      "cvr": 26172403,
+      "navn": "KARVIL BILER A/S",
+      "mappe": "karvil",
+      "branchekode": 478100,
+      "branche": "Detailhandel med motorkøretøjer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/10–30/9",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer/26172403_karvil_biler_a_s.xlsx"
+    },
+    {
       "cvr": 35663908,
       "navn": "KOMPAN Holding A/S",
       "mappe": "kompan",
@@ -1414,7 +1480,7 @@
       "navn": "Pure Gym Denmark A/S",
       "mappe": "puregym",
       "branchekode": 931300,
-      "branche": "Pure Gym Denmark A/S",
+      "branche": "Drift af fitnesscentre",
       "aar": [
         2021,
         2022,
@@ -1759,6 +1825,27 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer/12425694_thise_mejeri_a_m_b_a.xlsx"
+    },
+    {
+      "cvr": 43705660,
+      "navn": "Thurø Bryghus ApS",
+      "mappe": "thurøbryg",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Andre erklæringer uden sikkerh",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer/43705660_thuroe_bryghus_aps.xlsx"
     },
     {
       "cvr": 10404916,

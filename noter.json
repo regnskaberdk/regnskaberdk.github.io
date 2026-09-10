@@ -1,446 +1,466 @@
 {
   "11563392": {
-    "kategori": "Rejsearrangørers aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
   "20342781": {
-    "kategori": "Rejsearrangørers aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "19851974": {
-    "kategori": "Engroshandel med metaller og metalmalme",
+    "kategori": "Handel og transport mv.",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "32345794": {
-    "kategori": "Sø- og kysttransport af gods",
+    "kategori": "Handel og transport mv.",
     "badge": "Læringspunkt",
     "note": "Aflagt i USD — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "25313763": {
-    "kategori": "Fremstilling af mejeriprodukter",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "19555305": {
-    "kategori": "Detailhandel med byggematerialer og værktøj",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "88216512": {
-    "kategori": "Fremstilling af yderbeklædning",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "41792019": {
-    "kategori": "Rejsearrangørers aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
   "83933410": {
-    "kategori": "Drift af sportsklubber",
+    "kategori": "Kultur, fritid og anden service",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "89563518": {
-    "kategori": "Fremstilling af kakao, chokolade og sukkervarer",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "61056416": {
-    "kategori": "Forskning og eksperimentel udvikling inden for naturvidenskab og teknik",
+    "kategori": "Erhvervsservice",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
+  "34044511": {
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "69749917": {
-    "kategori": "Fremstilling af medicinske og dentale instrumenter samt udstyr hertil",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
+  "26259495": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "14707204": {
-    "kategori": "Serviceydelser i forbindelse med luftfart",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "75206119": {
-    "kategori": "Industriel fremstilling af brød og kager mv.",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "15013583": {
-    "kategori": "Engroshandel med mejeriprodukter, æg samt spiselige olier og fedtstoffer",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "87310116": {
-    "kategori": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "26121264": {
-    "kategori": "Forarbejdning af svinekød",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "14194711": {
-    "kategori": "Sø- og kysttransport af passagerer",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "24246930": {
-    "kategori": "Fremstilling af færdige foderblandinger til landbrugsdyr",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK. Bemærk: valutaen skifter mellem årene."
   },
   "58233528": {
-    "kategori": "Ikke-finansielle hovedsæders aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "45349918": {
-    "kategori": "Fremstilling af fodtøj",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "38454218": {
-    "kategori": "Fremstilling af gulvtæpper og -måtter",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "17237977": {
-    "kategori": "Detailhandel med elektriske husholdningsapparater",
+    "kategori": "Handel og transport mv.",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "33387997": {
-    "kategori": "Fremstilling af andre færdige metalprodukter i.a.n.",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "24257703": {
-    "kategori": "Drift af sportsklubber",
+    "kategori": "Kultur, fritid og anden service",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "25834844": {
-    "kategori": "Fremstilling af andre fødevarer i.a.n",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "16509973": {
-    "kategori": "Fremstilling af konsumis",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "32788718": {
-    "kategori": "Ikke-finansielle hovedsæders aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
   "58868728": {
-    "kategori": "Ikke-finansielle hovedsæders aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
   "35478205": {
-    "kategori": "Gennemførelse af byggeprojekter",
+    "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "26573645": {
-    "kategori": "Engroshandel med ure og smykker",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "30078616": {
-    "kategori": "Fremstilling af færdigretter",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "31858356": {
-    "kategori": "Rådgivende ingeniøraktiviteter inden for produktions- og maskinteknik",
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
   "43910515": {
-    "kategori": "Fremstilling af læskedrikke og vand på flaske",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "63049611": {
-    "kategori": "Fremstilling af andre papir- og papvarer",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "26799945": {
-    "kategori": "Engroshandel med møbler til bolig-, kontor- og butiksbrug, tæpper og belysningsartikler",
+    "kategori": "Handel og transport mv.",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "40333371": {
-    "kategori": "Detailhandel med dagligvarer i supermarkeder og købmandsbutikker",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "59946013": {
-    "kategori": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
+    "kategori": "Handel og transport mv.",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "81198411": {
-    "kategori": "Engroshandel med beklædning",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "12863233": {
-    "kategori": "Ikke-finansielle hovedsæders aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "28504799": {
-    "kategori": "Ikke-finansielle holdingselskaber",
+    "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Fuld",
     "note": ""
   },
   "10360641": {
-    "kategori": "Detailhandel med byggematerialer og værktøj",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
+  "26172403": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "35663908": {
-    "kategori": "Virksomhedsrådgivning og anden ledelsesrådgivning",
+    "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "20213094": {
-    "kategori": "Fremstilling af friske bageriprodukter",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "47458714": {
-    "kategori": "Fremstilling af spil og legetøj",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "86001519": {
-    "kategori": "Anden finansiel formidling i.a.n.",
+    "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Fuld",
     "note": ""
   },
   "13613575": {
-    "kategori": "Administrations- og kontorserviceaktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "13863385": {
-    "kategori": "Fremstilling af arbejdsbeklædning",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "27528406": {
-    "kategori": "Ikke-finansielle holdingselskaber",
+    "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Fuld",
     "note": ""
   },
   "10117224": {
-    "kategori": "Detailhandel med kæledyr og udstyr til kæledyr",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "10825598": {
-    "kategori": "Fremstilling af andre færdige metalprodukter i.a.n.",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "28314159": {
-    "kategori": "Fremstilling af øl",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "17881248": {
-    "kategori": "Sø- og kysttransport af passagerer",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "16499609": {
-    "kategori": "Udlejning af erhvervsejendomme",
+    "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Fuld",
     "note": ""
   },
   "28683944": {
-    "kategori": "Industrielt design og modedesign",
+    "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "89645417": {
-    "kategori": "Fremstilling af møbler",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "34883793": {
-    "kategori": "Detailhandel med kosmetikvarer og toiletartikler",
+    "kategori": "Handel og transport mv.",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "24256790": {
-    "kategori": "Fremstilling af farmaceutiske præparater",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "15233699": {
-    "kategori": "Fremstilling af kakao, chokolade og sukkervarer",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "17153684": {
-    "kategori": "Engroshandel med medicinalvarer og sygeplejeartikler",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "28505116": {
-    "kategori": "Fremstilling af smykker og lignende varer",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "24257797": {
-    "kategori": "Ikke-finansielle holdingselskaber",
+    "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Fuld",
     "note": ""
   },
   "14982442": {
-    "kategori": "Detailhandel med blomster og planter",
+    "kategori": "Handel og transport mv.",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "18966239": {
-    "kategori": "Detailhandel med informations- og kommunikationsudstyr",
+    "kategori": "Handel og transport mv.",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "25652991": {
-    "kategori": "Pure Gym Denmark A/S",
+    "kategori": "Kultur, fritid og anden service",
     "badge": "Fuld",
     "note": ""
   },
   "21093939": {
-    "kategori": "Engroshandel med kufferter og lædervarer",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "54879415": {
-    "kategori": "Ikke-finansielle hovedsæders aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "41956712": {
-    "kategori": "Fremstilling af læskedrikke og vand på flaske",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "19982912": {
-    "kategori": "Fremstilling af frugt- og grøntsagssaft",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "35954716": {
-    "kategori": "Anden ikke-specialiseret detailhandel",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "80673612": {
-    "kategori": "Fremstilling af andre færdige metalprodukter i.a.n.",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "76220115": {
-    "kategori": "Engroshandel med kufferter og lædervarer",
+    "kategori": "Handel og transport mv.",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "38841297": {
-    "kategori": "Detailhandel med byggematerialer og værktøj",
+    "kategori": "Handel og transport mv.",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK. Bemærk: valutaen skifter mellem årene."
   },
   "15908416": {
-    "kategori": "Ikke-specialiseret engroshandel",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
   "24137414": {
-    "kategori": "Rejsearrangørers aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
   "41952725": {
-    "kategori": "Ikke-finansielle holdingselskaber",
+    "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "32931499": {
-    "kategori": "Rejsebureauers aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
   "43340476": {
-    "kategori": "Fremstilling af øl",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "37291269": {
-    "kategori": "Administrations- og kontorserviceaktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
   "12425694": {
-    "kategori": "Fremstilling af mejeriprodukter",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
+  "43705660": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "10404916": {
-    "kategori": "Drift af forlystelsesparker o.lign.",
+    "kategori": "Kultur, fritid og anden service",
     "badge": "Fuld",
     "note": ""
   },
   "56759328": {
-    "kategori": "Fremstilling af kakao, chokolade og sukkervarer",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "22460218": {
-    "kategori": "Sø- og kysttransport af gods",
+    "kategori": "Handel og transport mv.",
     "badge": "Læringspunkt",
     "note": "Aflagt i USD — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
   "37425311": {
-    "kategori": "Rejsearrangørers aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "14996613": {
-    "kategori": "Fremstilling af mølleriprodukter",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "37118311": {
-    "kategori": "Fremstilling af læskedrikke og vand på flaske",
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
   "30830415": {
-    "kategori": "Ikke-finansielle hovedsæders aktiviteter",
+    "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "33054173": {
-    "kategori": "Reparation og lakering af karosseri samt undervognsbehandling",
+    "kategori": "Kultur, fritid og anden service",
     "badge": "Fuld",
     "note": ""
   },
   "26864100": {
-    "kategori": "Engroshandel med træ og byggematerialer samt sanitetsartikler",
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   }
