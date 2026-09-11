@@ -1,6 +1,28 @@
 {
-  "genereret": "2026-09-10",
+  "genereret": "2026-09-11",
   "selskaber": [
+    {
+      "cvr": 39220814,
+      "navn": "AKTIESELSKABET THISTED BRYGHUS & THISTED MINERALVANDSFABRIK",
+      "mappe": "thistedbryg",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/10–30/9",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer/39220814_aktieselskabet_thisted_bryghus_thisted_mineralvand.xlsx"
+    },
     {
       "cvr": 11563392,
       "navn": "ÅRHUS CHARTER A/S",
@@ -728,6 +750,28 @@
       "fil": "filer/26573645_georg_jensen_a_s.xlsx"
     },
     {
+      "cvr": 34596077,
+      "navn": "GOG SPORT A/S",
+      "mappe": "gogsport",
+      "branchekode": 931200,
+      "branche": "Drift af sportsklubber",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/7–30/6",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer/34596077_gog_sport_a_s.xlsx"
+    },
+    {
       "cvr": 30078616,
       "navn": "GoodLife Foods Nyborg A/S",
       "mappe": "goodf",
@@ -1234,6 +1278,28 @@
       "fil": "filer/17881248_molslinjen_a_s.xlsx"
     },
     {
+      "cvr": 41352523,
+      "navn": "MorsøBryghus ApS",
+      "mappe": "morsøbryg",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Ingen revisorbistand",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer/41352523_morsoebryghus_aps.xlsx"
+    },
+    {
       "cvr": 16499609,
       "navn": "MUNCK GRUPPEN A/S",
       "mappe": "munck",
@@ -1520,6 +1586,28 @@
       "fil": "filer/21093939_rice_a_s.xlsx"
     },
     {
+      "cvr": 27908470,
+      "navn": "REFSVINDINGE BRYGGERI ApS",
+      "mappe": "refsvingbryg",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "1/7–30/6",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer/27908470_refsvindinge_bryggeri_aps.xlsx"
+    },
+    {
       "cvr": 54879415,
       "navn": "ROCKWOOL A/S",
       "mappe": "rockwool",
@@ -1762,6 +1850,28 @@
       "fil": "filer/32931499_sunweb_group_scandinavia_a_s.xlsx"
     },
     {
+      "cvr": 28669070,
+      "navn": "SVANEKE BRYGHUS A/S",
+      "mappe": "svanekebryg",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer/28669070_svaneke_bryghus_a_s.xlsx"
+    },
+    {
       "cvr": 43340476,
       "navn": "Svendborgsund Bryghus ApS",
       "mappe": "svendsund",
@@ -2000,6 +2110,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer/30830415_vkr_holding_a_s.xlsx"
+    },
+    {
+      "cvr": 28976437,
+      "navn": "VIBORG BRYGHUS ApS",
+      "mappe": "viborgbryg",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer/28976437_viborg_bryghus_aps.xlsx"
     },
     {
       "cvr": 33054173,
