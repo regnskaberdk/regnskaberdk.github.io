@@ -209,6 +209,21 @@
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
   },
+  "43105957": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
+  "32073409": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "82550712": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Fuld",
+    "note": ""
+  },
   "81198411": {
     "kategori": "Handel og transport mv.",
     "badge": "Fuld",
@@ -218,6 +233,11 @@
     "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
+  "40867325": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Fuld",
+    "note": ""
   },
   "28504799": {
     "kategori": "Finansiering, forsikring, ejendom",
@@ -281,6 +301,11 @@
   },
   "28314159": {
     "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "32297757": {
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
@@ -413,6 +438,11 @@
     "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
+  },
+  "25886623": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Fuld",
+    "note": ""
   },
   "32931499": {
     "kategori": "Erhvervsservice",
