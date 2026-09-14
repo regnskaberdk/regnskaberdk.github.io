@@ -111,8 +111,12 @@
   <div class="kontrol">
     <input type="search" id="soeg" placeholder="Søg selskab, CVR eller branche"
            aria-label="Søg selskab, CVR eller branche">
-    <select id="kategori" aria-label="Filtrér på kategori">
-      <option value="">Alle kategorier</option>
+    <select id="niveau" aria-label="Brancheniveau">
+      <option value="dst10">Branche: 10 grupper</option>
+      <option value="detalje">Branche: detaljeret</option>
+    </select>
+    <select id="kategori" aria-label="Filtrér på branche">
+      <option value="">Alle brancher</option>
     </select>
     <select id="format" aria-label="Filtrér på opstillingsform">
       <option value="">Begge opstillinger</option>
@@ -155,6 +159,7 @@
   var elTaeller = document.getElementById("taeller");
   var elSoeg = document.getElementById("soeg");
   var elKat = document.getElementById("kategori");
+  var elNiveau = document.getElementById("niveau");
   var elFmt = document.getElementById("format");
   var elKlasse = document.getElementById("klasse");
   var elOms = document.getElementById("omsaetning");
@@ -231,7 +236,8 @@
     var oms = elOms.value;
 
     var valgte = alle.filter(function (s) {
-      if (kat && s.kategori !== kat) return false;
+      var kNu = (elNiveau.value === "detalje") ? s.branche : s.kategori;
+      if (kat && kNu !== kat) return false;
       if (fmt && s.format !== fmt) return false;
       if (kl && s.klasse !== kl) return false;
       if (oms === "med" && !s.omsaetning) return false;
@@ -272,19 +278,29 @@
         pengestroem: (s.pengestroem === false ? false : true),
         omsaetning: (s.omsaetning === false ? false : true),
         kategori: kategori, badge: badge, note: note,
+        branche: s.branche || "",
         soegetekst: (s.navn + " " + s.cvr + " " + s.branche + " " +
                      kategori).toLowerCase()
       };
     });
 
-    var kategorier = {};
-    alle.forEach(function (s) { kategorier[s.kategori] = true; });
-    Object.keys(kategorier).sort(function (a, b) {
-      return a.localeCompare(b, "da");
-    }).forEach(function (k) {
-      var o = document.createElement("option");
-      o.value = k; o.textContent = k;
-      elKat.appendChild(o);
+    function bygKategorier() {
+      while (elKat.options.length > 1) elKat.remove(1);
+      elKat.selectedIndex = 0;
+      var noegle = (elNiveau.value === "detalje") ? "branche" : "kategori";
+      var kategorier = {};
+      alle.forEach(function (s) { if (s[noegle]) kategorier[s[noegle]] = true; });
+      Object.keys(kategorier).sort(function (a, b) {
+        return a.localeCompare(b, "da");
+      }).forEach(function (k) {
+        var o = document.createElement("option");
+        o.value = k; o.textContent = k;
+        elKat.appendChild(o);
+      });
+    }
+    bygKategorier();
+    elNiveau.addEventListener("change", function () {
+      bygKategorier(); vis();
     });
 
     if (data.genereret) {
