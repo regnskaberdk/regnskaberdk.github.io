@@ -464,6 +464,28 @@
       "fil": "filer_1/26121264_danish_crown_a_s.xlsx"
     },
     {
+      "cvr": 71186911,
+      "navn": "Demant A/S",
+      "mappe": "demant",
+      "branchekode": 701010,
+      "branche": "Ikke-finansielle hovedsæders aktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/71186911_demant_a_s.xlsx"
+    },
+    {
       "cvr": 14194711,
       "navn": "DFDS A/S",
       "mappe": "dfds",
@@ -1167,6 +1189,28 @@
       "fil": "filer_1/35663908_kompan_holding_a_s.xlsx"
     },
     {
+      "cvr": 17990977,
+      "navn": "KOSAN GAS A/S",
+      "mappe": "kosangas",
+      "branchekode": 468100,
+      "branche": "Engroshandel med fast, flydende og luftformigt brændstof og lignende varer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/10–30/9",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/17990977_kosan_gas_a_s.xlsx"
+    },
+    {
       "cvr": 20213094,
       "navn": "LAGKAGEHUSET A/S",
       "mappe": "lagekage",
@@ -1211,6 +1255,28 @@
       "fil": "filer_1/47458714_lego_system_a_s.xlsx"
     },
     {
+      "cvr": 12679475,
+      "navn": "LEGRO GARTNERI A/S",
+      "mappe": "legrog",
+      "branchekode": 12800,
+      "branche": "Dyrkning af krydderiplanter, aromaplanter og lægeplanter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "1/7–30/6",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/12679475_legro_gartneri_a_s.xlsx"
+    },
+    {
       "cvr": 86001519,
       "navn": "Lars Larsen Group A/S",
       "mappe": "llarsengroup",
@@ -1233,6 +1299,28 @@
       "fil": "filer_1/86001519_lars_larsen_group_a_s.xlsx"
     },
     {
+      "cvr": 10290511,
+      "navn": "Linde Gas A/S",
+      "mappe": "lindegas",
+      "branchekode": 201100,
+      "branche": "Fremstilling af industrigasser",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/10290511_linde_gas_a_s.xlsx"
+    },
+    {
       "cvr": 13613575,
       "navn": "LOUIS NIELSEN A/S",
       "mappe": "louis",
@@ -1253,6 +1341,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/13613575_louis_nielsen_a_s.xlsx"
+    },
+    {
+      "cvr": 45937712,
+      "navn": "A/S LÆSØ FISKEINDUSTRI",
+      "mappe": "læsøf",
+      "branchekode": 463220,
+      "branche": "Engroshandel med fisk og fiskeprodukter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/45937712_a_s_laesoe_fiskeindustri.xlsx"
     },
     {
       "cvr": 13863385,
@@ -1495,6 +1605,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/89645417_nobia_denmark_a_s.xlsx"
+    },
+    {
+      "cvr": 11142141,
+      "navn": "NORDIC SEAFOOD A/S",
+      "mappe": "nordicsea",
+      "branchekode": 463220,
+      "branche": "Engroshandel med fisk og fiskeprodukter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/11142141_nordic_seafood_a_s.xlsx"
     },
     {
       "cvr": 34883793,
@@ -2351,6 +2483,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_2/26864100_xl_byg_a_m_b_a.xlsx"
+    },
+    {
+      "cvr": 20045078,
+      "navn": "ZEALAND PHARMA A/S",
+      "mappe": "zealand",
+      "branchekode": 721000,
+      "branche": "Forskning og eksperimentel udvikling inden for naturvidenskab og teknik",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/20045078_zealand_pharma_a_s.xlsx"
     },
     {
       "cvr": 36213728,

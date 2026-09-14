@@ -104,6 +104,11 @@
     "badge": "Fuld",
     "note": ""
   },
+  "71186911": {
+    "kategori": "Erhvervsservice",
+    "badge": "Fuld",
+    "note": ""
+  },
   "14194711": {
     "kategori": "Handel og transport mv.",
     "badge": "Fuld",
@@ -264,6 +269,11 @@
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
+  "17990977": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "20213094": {
     "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
@@ -274,13 +284,28 @@
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
+  "12679475": {
+    "kategori": "Landbrug, skovbrug og fiskeri",
+    "badge": "Fuld",
+    "note": ""
+  },
   "86001519": {
     "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Fuld",
     "note": ""
   },
+  "10290511": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Fuld",
+    "note": ""
+  },
   "13613575": {
     "kategori": "Erhvervsservice",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
+  "45937712": {
+    "kategori": "Handel og transport mv.",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
@@ -336,6 +361,11 @@
   },
   "89645417": {
     "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "11142141": {
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
@@ -531,6 +561,11 @@
   },
   "26864100": {
     "kategori": "Handel og transport mv.",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "20045078": {
+    "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
   },
