@@ -39,6 +39,16 @@
     "badge": "Fuld",
     "note": ""
   },
+  "56312412": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "28158254": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Fuld",
+    "note": ""
+  },
   "41792019": {
     "kategori": "Erhvervsservice",
     "badge": "Fuld",
@@ -144,6 +154,11 @@
     "badge": "Fuld",
     "note": ""
   },
+  "30338413": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "24257703": {
     "kategori": "Kultur, fritid og anden service",
     "badge": "Note",
@@ -194,6 +209,11 @@
     "badge": "Fuld",
     "note": ""
   },
+  "27146880": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "43910515": {
     "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
@@ -203,6 +223,11 @@
     "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
+  "32441483": {
+    "kategori": "Landbrug, skovbrug og fiskeri",
+    "badge": "Fuld",
+    "note": ""
   },
   "26799945": {
     "kategori": "Handel og transport mv.",
@@ -218,6 +243,11 @@
     "kategori": "Handel og transport mv.",
     "badge": "Læringspunkt",
     "note": "Aflagt i EUR — beløbene kan ikke sammenlignes direkte med selskaber i DKK."
+  },
+  "11160808": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "43105957": {
     "kategori": "Handel og transport mv.",
@@ -243,6 +273,11 @@
     "kategori": "Erhvervsservice",
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
+  "16441007": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Fuld",
+    "note": ""
   },
   "40867325": {
     "kategori": "Handel og transport mv.",
@@ -289,6 +324,11 @@
     "badge": "Fuld",
     "note": ""
   },
+  "33041586": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Fuld",
+    "note": ""
+  },
   "86001519": {
     "kategori": "Finansiering, forsikring, ejendom",
     "badge": "Fuld",
@@ -309,6 +349,11 @@
     "badge": "Note",
     "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
+  "69980015": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "13863385": {
     "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
@@ -320,6 +365,11 @@
     "note": ""
   },
   "10117224": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "31766605": {
     "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
@@ -344,6 +394,11 @@
     "badge": "Fuld",
     "note": ""
   },
+  "66652912": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Fuld",
+    "note": ""
+  },
   "41352523": {
     "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
@@ -364,6 +419,11 @@
     "badge": "Fuld",
     "note": ""
   },
+  "16994006": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "11142141": {
     "kategori": "Handel og transport mv.",
     "badge": "Fuld",
@@ -378,6 +438,11 @@
     "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
+  },
+  "38437011": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "15233699": {
     "kategori": "Industri, råstofindvinding, forsyning",
@@ -396,6 +461,16 @@
   },
   "24257797": {
     "kategori": "Finansiering, forsikring, ejendom",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "26058007": {
+    "kategori": "Erhvervsservice",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "45667219": {
+    "kategori": "Handel og transport mv.",
     "badge": "Fuld",
     "note": ""
   },
@@ -464,6 +539,16 @@
     "badge": "Fuld",
     "note": ""
   },
+  "76489017": {
+    "kategori": "Kultur, fritid og anden service",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "26458005": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Fuld",
+    "note": ""
+  },
   "24137414": {
     "kategori": "Erhvervsservice",
     "badge": "Fuld",
@@ -476,6 +561,11 @@
   },
   "25886623": {
     "kategori": "Handel og transport mv.",
+    "badge": "Fuld",
+    "note": ""
+  },
+  "24209644": {
+    "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
   },
@@ -498,6 +588,11 @@
     "kategori": "Erhvervsservice",
     "badge": "Fuld",
     "note": ""
+  },
+  "41852119": {
+    "kategori": "Industri, råstofindvinding, forsyning",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   },
   "12425694": {
     "kategori": "Industri, råstofindvinding, forsyning",
@@ -554,6 +649,11 @@
     "badge": "Fuld",
     "note": ""
   },
+  "26211425": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
+  },
   "33054173": {
     "kategori": "Kultur, fritid og anden service",
     "badge": "Fuld",
@@ -578,5 +678,10 @@
     "kategori": "Industri, råstofindvinding, forsyning",
     "badge": "Fuld",
     "note": ""
+  },
+  "25449746": {
+    "kategori": "Handel og transport mv.",
+    "badge": "Note",
+    "note": "Atypisk indberetning — enkelte mellemregninger følger ikke standardopstillingen. Tallene stammer direkte fra selskabets officielle indberetning."
   }
 }

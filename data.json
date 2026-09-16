@@ -1,5 +1,5 @@
 {
-  "genereret": "2026-09-14",
+  "genereret": "2026-09-15",
   "selskaber": [
     {
       "cvr": 39220814,
@@ -176,6 +176,50 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/88216512_bestseller_a_s.xlsx"
+    },
+    {
+      "cvr": 56312412,
+      "navn": "BKI FOODS A/S",
+      "mappe": "bkifood",
+      "branchekode": 108300,
+      "branche": "Forarbejdning af te og kaffe",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/56312412_bki_foods_a_s.xlsx"
+    },
+    {
+      "cvr": 28158254,
+      "navn": "BOJSEN BILER A/S",
+      "mappe": "bojsenb",
+      "branchekode": 478100,
+      "branche": "Detailhandel med motorkøretøjer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/28158254_bojsen_biler_a_s.xlsx"
     },
     {
       "cvr": 41792019,
@@ -640,6 +684,28 @@
       "fil": "filer_1/33387997_engineered_market_solutions_aps.xlsx"
     },
     {
+      "cvr": 30338413,
+      "navn": "EVA TRIO A/S",
+      "mappe": "evat",
+      "branchekode": 464990,
+      "branche": "Engroshandel med andre husholdningsartikler i.a.n.",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/7–30/6",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/30338413_eva_trio_a_s.xlsx"
+    },
+    {
       "cvr": 24257703,
       "navn": "FC NORDSJÆLLAND A/S",
       "mappe": "fcn",
@@ -860,6 +926,28 @@
       "fil": "filer_1/31858356_grundfos_holding_a_s.xlsx"
     },
     {
+      "cvr": 27146880,
+      "navn": "HANEGAL A/S",
+      "mappe": "hanegal",
+      "branchekode": 101300,
+      "branche": "Fremstilling af kød- og fjerkrækødprodukter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/27146880_hanegal_a_s.xlsx"
+    },
+    {
       "cvr": 43910515,
       "navn": "HARBOES BRYGGERI A/S",
       "mappe": "harboe",
@@ -902,6 +990,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/63049611_hartmann_packaging_a_s.xlsx"
+    },
+    {
+      "cvr": 32441483,
+      "navn": "HATTING A/S",
+      "mappe": "hatting",
+      "branchekode": 16200,
+      "branche": "Støtteaktiviteter i forbindelse med husdyravl",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/32441483_hatting_a_s.xlsx"
     },
     {
       "cvr": 26799945,
@@ -968,6 +1078,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/59946013_hempel_a_s.xlsx"
+    },
+    {
+      "cvr": 11160808,
+      "navn": "HIRTSHALS SEAFOOD A/S",
+      "mappe": "hirtshalssea",
+      "branchekode": 102020,
+      "branche": "Forarbejdning og konservering af fisk, krebsdyr og bløddyr, undtagen fiskemel",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/10–30/9",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/11160808_hirtshals_seafood_a_s.xlsx"
     },
     {
       "cvr": 43105957,
@@ -1077,6 +1209,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/12863233_hydrema_group_a_s.xlsx"
+    },
+    {
+      "cvr": 16441007,
+      "navn": "HØJER PØLSER A/S",
+      "mappe": "højerp",
+      "branchekode": 101300,
+      "branche": "Fremstilling af kød- og fjerkrækødprodukter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "1/10–30/9",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/16441007_hoejer_poelser_a_s.xlsx"
     },
     {
       "cvr": 40867325,
@@ -1277,6 +1431,28 @@
       "fil": "filer_2/12679475_legro_gartneri_a_s.xlsx"
     },
     {
+      "cvr": 33041586,
+      "navn": "LAKRIDS BY JOHAN BÜLOW A/S",
+      "mappe": "lakridsb",
+      "branchekode": 108200,
+      "branche": "Fremstilling af kakao, chokolade og sukkervarer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/33041586_lakrids_by_johan_b_low_a_s.xlsx"
+    },
+    {
       "cvr": 86001519,
       "navn": "Lars Larsen Group A/S",
       "mappe": "llarsengroup",
@@ -1365,6 +1541,28 @@
       "fil": "filer_2/45937712_a_s_laesoe_fiskeindustri.xlsx"
     },
     {
+      "cvr": 69980015,
+      "navn": "Mammen Mejerierne A/S",
+      "mappe": "mammen",
+      "branchekode": 105100,
+      "branche": "Fremstilling af mejeriprodukter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/69980015_mammen_mejerierne_a_s.xlsx"
+    },
+    {
       "cvr": 13863385,
       "navn": "MASCOT INTERNATIONAL A/S",
       "mappe": "mascot",
@@ -1429,6 +1627,28 @@
       "pengestroem": false,
       "omsaetning": true,
       "fil": "filer_1/10117224_maxi_zoo_denmark_a_s.xlsx"
+    },
+    {
+      "cvr": 31766605,
+      "navn": "MB FOOD A/S",
+      "mappe": "mbfoods",
+      "branchekode": 463210,
+      "branche": "Engroshandel med kød og kødprodukter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/31766605_mb_food_a_s.xlsx"
     },
     {
       "cvr": 10825598,
@@ -1519,6 +1739,28 @@
       "fil": "filer_1/17881248_molslinjen_a_s.xlsx"
     },
     {
+      "cvr": 66652912,
+      "navn": "MONTANA FURNITURE A/S",
+      "mappe": "montanaf",
+      "branchekode": 310000,
+      "branche": "Fremstilling af møbler",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/7–30/6",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/66652912_montana_furniture_a_s.xlsx"
+    },
+    {
       "cvr": 41352523,
       "navn": "MorsøBryghus ApS",
       "mappe": "morsøbryg",
@@ -1607,6 +1849,28 @@
       "fil": "filer_1/89645417_nobia_denmark_a_s.xlsx"
     },
     {
+      "cvr": 16994006,
+      "navn": "NORDEX FOOD A/S",
+      "mappe": "nordexfood",
+      "branchekode": 463300,
+      "branche": "Engroshandel med mejeriprodukter, æg samt spiselige olier og fedtstoffer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/16994006_nordex_food_a_s.xlsx"
+    },
+    {
       "cvr": 11142141,
       "navn": "NORDIC SEAFOOD A/S",
       "mappe": "nordicsea",
@@ -1671,6 +1935,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/24256790_novo_nordisk_a_s.xlsx"
+    },
+    {
+      "cvr": 38437011,
+      "navn": "Odense Havn A/S",
+      "mappe": "odensehavn",
+      "branchekode": 522210,
+      "branche": "Drift af erhvervshavne",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/38437011_odense_havn_a_s.xlsx"
     },
     {
       "cvr": 15233699,
@@ -1759,6 +2045,50 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/24257797_per_aarsleff_holding_a_s.xlsx"
+    },
+    {
+      "cvr": 26058007,
+      "navn": "PETER BEIER CHOKOLADE A/S",
+      "mappe": "peterb",
+      "branchekode": 773910,
+      "branche": "Udlejning og leasing af andet materiel, udstyr og andre materielle aktiver til events",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/26058007_peter_beier_chokolade_a_s.xlsx"
+    },
+    {
+      "cvr": 45667219,
+      "navn": "PETER LARSEN KAFFE A/S",
+      "mappe": "peterl",
+      "branchekode": 463700,
+      "branche": "Engroshandel med kaffe, te, kakao og krydderier",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/45667219_peter_larsen_kaffe_a_s.xlsx"
     },
     {
       "cvr": 14982442,
@@ -2047,6 +2377,50 @@
       "fil": "filer_1/15908416_solar_a_s.xlsx"
     },
     {
+      "cvr": 76489017,
+      "navn": "SOMMERLAND SJÆLLAND A/S",
+      "mappe": "sommerlands",
+      "branchekode": 932100,
+      "branche": "Drift af forlystelsesparker o.lign.",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "1/5–30/4",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/76489017_sommerland_sjaelland_a_s.xlsx"
+    },
+    {
+      "cvr": 26458005,
+      "navn": "SPANGSBERG CHOKOLADE A/S",
+      "mappe": "spangsberg",
+      "branchekode": 108200,
+      "branche": "Fremstilling af kakao, chokolade og sukkervarer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/26458005_spangsberg_chokolade_a_s.xlsx"
+    },
+    {
       "cvr": 24137414,
       "navn": "SPIES A/S",
       "mappe": "spies",
@@ -2111,6 +2485,28 @@
       "pengestroem": false,
       "omsaetning": false,
       "fil": "filer_1/25886623_stella_maris_hotel_de_luxe_a_s.xlsx"
+    },
+    {
+      "cvr": 24209644,
+      "navn": "Summerbird A/S",
+      "mappe": "summerbird",
+      "branchekode": 108200,
+      "branche": "Fremstilling af kakao, chokolade og sukkervarer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/24209644_summerbird_a_s.xlsx"
     },
     {
       "cvr": 32931499,
@@ -2198,6 +2594,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/37291269_tcm_group_a_s.xlsx"
+    },
+    {
+      "cvr": 41852119,
+      "navn": "TETRA PAK PROCESSING SYSTEMS A/S",
+      "mappe": "tetra",
+      "branchekode": 282500,
+      "branche": "Fremstilling af klimaanlæg, ikke til husholdningsbrug",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/41852119_tetra_pak_processing_systems_a_s.xlsx"
     },
     {
       "cvr": 12425694,
@@ -2441,6 +2859,28 @@
       "fil": "filer_2/28976437_viborg_bryghus_aps.xlsx"
     },
     {
+      "cvr": 26211425,
+      "navn": "WESTPACK A/S",
+      "mappe": "westpack",
+      "branchekode": 468600,
+      "branche": "Engroshandel med andre råvarer og halvfabrikata",
+      "aar": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/5–30/4",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/26211425_westpack_a_s.xlsx"
+    },
+    {
       "cvr": 33054173,
       "navn": "WINUM AUTOLAKERING ApS",
       "mappe": "winum",
@@ -2549,6 +2989,28 @@
       "pengestroem": false,
       "omsaetning": false,
       "fil": "filer_2/27769608_aeroe_bryggeri_a_s.xlsx"
+    },
+    {
+      "cvr": 25449746,
+      "navn": "AARHUS AIRPORT A/S",
+      "mappe": "aarhusair",
+      "branchekode": 522300,
+      "branche": "Serviceydelser i forbindelse med luftfart",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/25449746_aarhus_airport_a_s.xlsx"
     }
   ]
 }
