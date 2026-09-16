@@ -1,5 +1,5 @@
 {
-  "genereret": "2026-09-15",
+  "genereret": "2026-09-16",
   "selskaber": [
     {
       "cvr": 39220814,
@@ -68,6 +68,28 @@
       "fil": "filer_1/20342781_albatros_travel_a_s.xlsx"
     },
     {
+      "cvr": 37037974,
+      "navn": "Alefarm Brewing A/S",
+      "mappe": "alefarm",
+      "branchekode": 110500,
+      "branche": "Fremstilling af øl",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/37037974_alefarm_brewing_a_s.xlsx"
+    },
+    {
       "cvr": 19851974,
       "navn": "ALUMECO ApS",
       "mappe": "alumeco",
@@ -88,6 +110,28 @@
       "pengestroem": false,
       "omsaetning": true,
       "fil": "filer_1/19851974_alumeco_aps.xlsx"
+    },
+    {
+      "cvr": 63644919,
+      "navn": "AMBU A/S",
+      "mappe": "ambu",
+      "branchekode": 464610,
+      "branche": "Engroshandel med medicinalvarer og sygeplejeartikler",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/10–30/9",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/63644919_ambu_a_s.xlsx"
     },
     {
       "cvr": 32345794,
@@ -156,6 +200,28 @@
       "fil": "filer_1/19555305_bauhaus_danmark_a_s.xlsx"
     },
     {
+      "cvr": 16271187,
+      "navn": "BAVARIAN NORDIC A/S",
+      "mappe": "bavarian",
+      "branchekode": 212000,
+      "branche": "Fremstilling af farmaceutiske præparater",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/16271187_bavarian_nordic_a_s.xlsx"
+    },
+    {
       "cvr": 88216512,
       "navn": "BESTSELLER A/S",
       "mappe": "bestseller",
@@ -198,6 +264,50 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_2/56312412_bki_foods_a_s.xlsx"
+    },
+    {
+      "cvr": 89866618,
+      "navn": "BOCONCEPT A/S",
+      "mappe": "boconcept",
+      "branchekode": 464700,
+      "branche": "Engroshandel med møbler til bolig-, kontor- og butiksbrug, tæpper og belysningsartikler",
+      "aar": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/5–30/4",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/89866618_boconcept_a_s.xlsx"
+    },
+    {
+      "cvr": 41257911,
+      "navn": "BANG & OLUFSEN A/S",
+      "mappe": "bogo",
+      "branchekode": 721000,
+      "branche": "Forskning og eksperimentel udvikling inden for naturvidenskab og teknik",
+      "aar": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/41257911_bang_olufsen_a_s.xlsx"
     },
     {
       "cvr": 28158254,
@@ -772,6 +882,50 @@
       "fil": "filer_1/16509973_hansens_floedeis_aps.xlsx"
     },
     {
+      "cvr": 36972963,
+      "navn": "HusCompagniet A/S",
+      "mappe": "huskom",
+      "branchekode": 821000,
+      "branche": "Administrations- og kontorserviceaktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/36972963_huscompagniet_a_s.xlsx"
+    },
+    {
+      "cvr": 58180912,
+      "navn": "FLSMIDTH & CO. A/S",
+      "mappe": "fls",
+      "branchekode": 701010,
+      "branche": "Ikke-finansielle hovedsæders aktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/58180912_flsmidth_co_a_s.xlsx"
+    },
+    {
       "cvr": 32788718,
       "navn": "Flügger group A/S",
       "mappe": "flugger",
@@ -794,6 +948,28 @@
       "fil": "filer_1/32788718_fl_gger_group_a_s.xlsx"
     },
     {
+      "cvr": 76470316,
+      "navn": "FRILUFTSLAND A/S",
+      "mappe": "friluftsland",
+      "branchekode": 476310,
+      "branche": "Detailhandel med sports- og fritidsudstyr",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/76470316_friluftsland_a_s.xlsx"
+    },
+    {
       "cvr": 58868728,
       "navn": "GABRIEL HOLDING A/S",
       "mappe": "gabriel",
@@ -814,6 +990,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/58868728_gabriel_holding_a_s.xlsx"
+    },
+    {
+      "cvr": 25442024,
+      "navn": "GASA GROUP DENMARK A/S",
+      "mappe": "gasag",
+      "branchekode": 462200,
+      "branche": "Engroshandel med blomster og planter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/25442024_gasa_group_denmark_a_s.xlsx"
     },
     {
       "cvr": 35478205,
@@ -1475,6 +1673,28 @@
       "fil": "filer_1/86001519_lars_larsen_group_a_s.xlsx"
     },
     {
+      "cvr": 66365328,
+      "navn": "LINAK A/S",
+      "mappe": "linak",
+      "branchekode": 271100,
+      "branche": "Fremstilling af elektriske motorer, generatorer og transformatorer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/7–30/6",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/66365328_linak_a_s.xlsx"
+    },
+    {
       "cvr": 10290511,
       "navn": "Linde Gas A/S",
       "mappe": "lindegas",
@@ -1825,6 +2045,28 @@
       "pengestroem": false,
       "omsaetning": true,
       "fil": "filer_1/28683944_muuto_a_s.xlsx"
+    },
+    {
+      "cvr": 62725214,
+      "navn": "NKT A/S",
+      "mappe": "nkt",
+      "branchekode": 642120,
+      "branche": "Ikke-finansielle holdingselskaber",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "EUR",
+      "klasse": "D",
+      "erklaering": "",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/62725214_nkt_a_s.xlsx"
     },
     {
       "cvr": 89645417,
@@ -2201,6 +2443,28 @@
       "fil": "filer_1/27908470_refsvindinge_bryggeri_aps.xlsx"
     },
     {
+      "cvr": 57068515,
+      "navn": "ROBLON AKTIESELSKAB",
+      "mappe": "roblon",
+      "branchekode": 139400,
+      "branche": "Fremstilling af reb, tovværk, sejlgarn og netstoffer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "funktionsopdelt",
+      "valuta": "DKK",
+      "klasse": "D",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/11–31/10",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/57068515_roblon_aktieselskab.xlsx"
+    },
+    {
       "cvr": 54879415,
       "navn": "ROCKWOOL A/S",
       "mappe": "rockwool",
@@ -2353,6 +2617,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/38841297_silvan_a_s.xlsx"
+    },
+    {
+      "cvr": 19639797,
+      "navn": "SLAGTER THEILGAARD A/S",
+      "mappe": "slagtert",
+      "branchekode": 468600,
+      "branche": "Engroshandel med andre råvarer og halvfabrikata",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/10–30/9",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/19639797_slagter_theilgaard_a_s.xlsx"
     },
     {
       "cvr": 15908416,
