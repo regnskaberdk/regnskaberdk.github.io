@@ -1,5 +1,5 @@
 {
-  "genereret": "2026-09-16",
+  "genereret": "2026-09-27",
   "selskaber": [
     {
       "cvr": 39220814,
@@ -660,6 +660,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/14194711_dfds_a_s.xlsx"
+    },
+    {
+      "cvr": 37079227,
+      "navn": "Designbysi ApS",
+      "mappe": "designbysis",
+      "branchekode": 142100,
+      "branche": "Fremstilling af yderbeklædning",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "1/7–30/6",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/37079227_designbysi_aps.xlsx"
     },
     {
       "cvr": 24246930,
