@@ -1,5 +1,5 @@
 {
-  "genereret": "2026-09-27",
+  "genereret": "2026-09-29",
   "selskaber": [
     {
       "cvr": 39220814,
@@ -1517,6 +1517,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/10360641_jem_fix_a_s.xlsx"
+    },
+    {
+      "cvr": 13590400,
+      "navn": "JYSK A/S",
+      "mappe": "jysk",
+      "branchekode": 475590,
+      "branche": "Detailhandel med boligtekstiler, belysnings- og husholdningsartikler i.a.n.",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/9–31/8",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/13590400_jysk_a_s.xlsx"
     },
     {
       "cvr": 26172403,
