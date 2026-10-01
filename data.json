@@ -1,5 +1,5 @@
 {
-  "genereret": "2026-09-29",
+  "genereret": "2026-10-02",
   "selskaber": [
     {
       "cvr": 39220814,
@@ -1012,6 +1012,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/58868728_gabriel_holding_a_s.xlsx"
+    },
+    {
+      "cvr": 21664731,
+      "navn": "GANNI A/S",
+      "mappe": "ganni",
+      "branchekode": 142100,
+      "branche": "Fremstilling af yderbeklædning",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/21664731_ganni_a_s.xlsx"
     },
     {
       "cvr": 25442024,
@@ -2377,6 +2399,28 @@
       "fil": "filer_2/45667219_peter_larsen_kaffe_a_s.xlsx"
     },
     {
+      "cvr": 40088008,
+      "navn": "Planet Nusa ApS",
+      "mappe": "planetnusa",
+      "branchekode": 477110,
+      "branche": "Detailhandel med tøj",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/40088008_planet_nusa_aps.xlsx"
+    },
+    {
       "cvr": 14982442,
       "navn": "PLANTORAMA A/S",
       "mappe": "plantorama",
@@ -3077,6 +3121,28 @@
       "pengestroem": false,
       "omsaetning": true,
       "fil": "filer_2/37425311_tui_danmark_a_s.xlsx"
+    },
+    {
+      "cvr": 30800680,
+      "navn": "UNISPORT A/S",
+      "mappe": "unisport",
+      "branchekode": 476310,
+      "branche": "Detailhandel med sports- og fritidsudstyr",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/30800680_unisport_a_s.xlsx"
     },
     {
       "cvr": 14996613,
