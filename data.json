@@ -1,5 +1,5 @@
 {
-  "genereret": "2026-10-02",
+  "genereret": "2026-10-03",
   "selskaber": [
     {
       "cvr": 39220814,
@@ -636,7 +636,7 @@
       "erklaering": "Revision",
       "regnskabsaar": "",
       "pengestroem": true,
-      "omsaetning": false,
+      "omsaetning": true,
       "fil": "filer_2/64011715_danske_spil_a_s.xlsx"
     },
     {
@@ -658,7 +658,7 @@
       "erklaering": "Revision",
       "regnskabsaar": "",
       "pengestroem": true,
-      "omsaetning": false,
+      "omsaetning": true,
       "fil": "filer_2/33034482_danske_lotteri_spil_a_s.xlsx"
     },
     {
@@ -680,7 +680,7 @@
       "erklaering": "Revision",
       "regnskabsaar": "",
       "pengestroem": true,
-      "omsaetning": false,
+      "omsaetning": true,
       "fil": "filer_2/33034474_danske_licens_spil_a_s.xlsx"
     },
     {
