@@ -222,6 +222,28 @@
       "fil": "filer_2/16271187_bavarian_nordic_a_s.xlsx"
     },
     {
+      "cvr": 84954519,
+      "navn": "BERDINO HOLDING A/S",
+      "mappe": "berdino",
+      "branchekode": 902010,
+      "branche": "Teater- og koncertproduktioner",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/84954519_berdino_holding_a_s.xlsx"
+    },
+    {
       "cvr": 88216512,
       "navn": "BESTSELLER A/S",
       "mappe": "bestseller",
@@ -374,6 +396,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/83933410_broendbyernes_i_f_fodbold_a_s.xlsx"
+    },
+    {
+      "cvr": 39428911,
+      "navn": "Caprock ApS",
+      "mappe": "caprock",
+      "branchekode": 477500,
+      "branche": "Detailhandel med kosmetikvarer og toiletartikler",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "1/9–31/8",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/39428911_caprock_aps.xlsx"
     },
     {
       "cvr": 89563518,
@@ -572,6 +616,72 @@
       "pengestroem": false,
       "omsaetning": false,
       "fil": "filer_1/15013583_danaeg_a_s.xlsx"
+    },
+    {
+      "cvr": 64011715,
+      "navn": "DANSKE SPIL A/S",
+      "mappe": "danskespil",
+      "branchekode": 920000,
+      "branche": "Lotteri- og andre spilleaktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/64011715_danske_spil_a_s.xlsx"
+    },
+    {
+      "cvr": 33034482,
+      "navn": "DANSKE LOTTERI SPIL A/S",
+      "mappe": "danskelotterispil",
+      "branchekode": 920000,
+      "branche": "Lotteri- og andre spilleaktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/33034482_danske_lotteri_spil_a_s.xlsx"
+    },
+    {
+      "cvr": 33034474,
+      "navn": "DANSKE LICENS SPIL A/S",
+      "mappe": "danskelicensspil",
+      "branchekode": 920000,
+      "branche": "Lotteri- og andre spilleaktiviteter",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": false,
+      "fil": "filer_2/33034474_danske_licens_spil_a_s.xlsx"
     },
     {
       "cvr": 87310116,
@@ -1102,6 +1212,50 @@
       "fil": "filer_1/26573645_georg_jensen_a_s.xlsx"
     },
     {
+      "cvr": 10549744,
+      "navn": "GENERAL LOGISTICS SYSTEMS DENMARK A/S",
+      "mappe": "glsdk",
+      "branchekode": 532000,
+      "branche": "Andre post- og kuréraktiviteter",
+      "aar": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "format": "artsopdelt",
+      "valuta": "EUR",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/4–31/3",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/10549744_general_logistics_systems_denmark_a_s.xlsx"
+    },
+    {
+      "cvr": 14414002,
+      "navn": "GENERAL LOGISTICS SYSTEMS EXPRESS A/S",
+      "mappe": "glsexpress",
+      "branchekode": 532000,
+      "branche": "Andre post- og kuréraktiviteter",
+      "aar": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-mellem",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/4–31/3",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/14414002_general_logistics_systems_express_a_s.xlsx"
+    },
+    {
       "cvr": 34596077,
       "navn": "GOG SPORT A/S",
       "mappe": "gogsport",
@@ -1144,6 +1298,28 @@
       "pengestroem": false,
       "omsaetning": true,
       "fil": "filer_1/30078616_goodlife_foods_nyborg_a_s.xlsx"
+    },
+    {
+      "cvr": 35521585,
+      "navn": "GreenMobility A/S",
+      "mappe": "greenmobil",
+      "branchekode": 771100,
+      "branche": "Udlejning og leasing af biler og lette motorkøretøjer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "",
+      "erklaering": "",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/35521585_greenmobility_a_s.xlsx"
     },
     {
       "cvr": 31858356,
@@ -1497,6 +1673,28 @@
       "fil": "filer_1/40867325_h5_broloekke_herregaard_a_s.xlsx"
     },
     {
+      "cvr": 39453630,
+      "navn": "International Entertainment ApS",
+      "mappe": "internationalenter",
+      "branchekode": 902010,
+      "branche": "Teater- og koncertproduktioner",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/39453630_international_entertainment_aps.xlsx"
+    },
+    {
       "cvr": 28504799,
       "navn": "ISS A/S",
       "mappe": "iss",
@@ -1539,6 +1737,50 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/10360641_jem_fix_a_s.xlsx"
+    },
+    {
+      "cvr": 26589355,
+      "navn": "JOE & THE JUICE A/S",
+      "mappe": "jtj",
+      "branchekode": 563010,
+      "branche": "Udskænkning af ikke-alkoholiske drikkevarer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/26589355_joe_the_juice_a_s.xlsx"
+    },
+    {
+      "cvr": 35527990,
+      "navn": "JOE & THE JUICE HOLDING A/S",
+      "mappe": "jtjholding",
+      "branchekode": 561110,
+      "branche": "Servering af mad i restauranter og caféer",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/35527990_joe_the_juice_holding_a_s.xlsx"
     },
     {
       "cvr": 13590400,
@@ -2113,6 +2355,28 @@
       "fil": "filer_1/28683944_muuto_a_s.xlsx"
     },
     {
+      "cvr": 38788493,
+      "navn": "Nailster A/S",
+      "mappe": "nailster",
+      "branchekode": 477500,
+      "branche": "Detailhandel med kosmetikvarer og toiletartikler",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/38788493_nailster_a_s.xlsx"
+    },
+    {
       "cvr": 62725214,
       "navn": "NKT A/S",
       "mappe": "nkt",
@@ -2443,6 +2707,28 @@
       "fil": "filer_1/14982442_plantorama_a_s.xlsx"
     },
     {
+      "cvr": 25380088,
+      "navn": "POWER A/S",
+      "mappe": "power",
+      "branchekode": 475400,
+      "branche": "Detailhandel med elektriske husholdningsapparater",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/25380088_power_a_s.xlsx"
+    },
+    {
       "cvr": 18966239,
       "navn": "Proshop a/s",
       "mappe": "proshop",
@@ -2641,6 +2927,28 @@
       "fil": "filer_1/35954716_salling_group_a_s.xlsx"
     },
     {
+      "cvr": 56994912,
+      "navn": "SAS DANMARK A/S",
+      "mappe": "sasdanmark",
+      "branchekode": 649990,
+      "branche": "Anden finansiel formidling i.a.n.",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Revision",
+      "regnskabsaar": "1/11–31/10",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/56994912_sas_danmark_a_s.xlsx"
+    },
+    {
       "cvr": 80673612,
       "navn": "SCANPAN A/S",
       "mappe": "scan",
@@ -2705,6 +3013,28 @@
       "pengestroem": true,
       "omsaetning": true,
       "fil": "filer_1/38841297_silvan_a_s.xlsx"
+    },
+    {
+      "cvr": 33962606,
+      "navn": "Sindico E-commerce ApS",
+      "mappe": "sindico",
+      "branchekode": 477110,
+      "branche": "Detailhandel med tøj",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Udvidet gennemgang",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/33962606_sindico_e_commerce_aps.xlsx"
     },
     {
       "cvr": 19639797,
@@ -2815,6 +3145,28 @@
       "pengestroem": false,
       "omsaetning": true,
       "fil": "filer_1/24137414_spies_a_s.xlsx"
+    },
+    {
+      "cvr": 13824606,
+      "navn": "SPORT 24 A/S",
+      "mappe": "sport24",
+      "branchekode": 476310,
+      "branche": "Detailhandel med sports- og fritidsudstyr",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/13824606_sport_24_a_s.xlsx"
     },
     {
       "cvr": 41952725,
@@ -3057,6 +3409,50 @@
       "fil": "filer_2/10404916_tivoli_a_s.xlsx"
     },
     {
+      "cvr": 37561304,
+      "navn": "Too Good To Go ApS",
+      "mappe": "togoodtogo",
+      "branchekode": 479200,
+      "branche": "Formidlingsaktiviteter inden for specialiseret detailhandel",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": true,
+      "fil": "filer_2/37561304_too_good_to_go_aps.xlsx"
+    },
+    {
+      "cvr": 37535699,
+      "navn": "Too Good To Go Holding ApS",
+      "mappe": "togoodtogoholding",
+      "branchekode": 642120,
+      "branche": "Ikke-finansielle holdingselskaber",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "EUR",
+      "klasse": "C-stor",
+      "erklaering": "Revision",
+      "regnskabsaar": "",
+      "pengestroem": true,
+      "omsaetning": true,
+      "fil": "filer_2/37535699_too_good_to_go_holding_aps.xlsx"
+    },
+    {
       "cvr": 56759328,
       "navn": "TOMS GRUPPEN A/S",
       "mappe": "toms",
@@ -3297,6 +3693,28 @@
       "pengestroem": false,
       "omsaetning": false,
       "fil": "filer_2/33054173_winum_autolakering_aps.xlsx"
+    },
+    {
+      "cvr": 41182385,
+      "navn": "Yourlocal DK ApS",
+      "mappe": "yourlocal",
+      "branchekode": 582900,
+      "branche": "Anden udgivelse af software",
+      "aar": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "format": "artsopdelt",
+      "valuta": "DKK",
+      "klasse": "B",
+      "erklaering": "Ingen revisorbistand",
+      "regnskabsaar": "",
+      "pengestroem": false,
+      "omsaetning": false,
+      "fil": "filer_2/41182385_yourlocal_dk_aps.xlsx"
     },
     {
       "cvr": 26864100,
